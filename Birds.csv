@@ -1,0 +1,2002 @@
+ID,Tower company,Structure Type,Radio frequency ,Birds affected,Death Rate(in %),State,Total Towers(Present),Total Towers(before 5 years)
+20400,Jio,LTower, 531.00 ,Sparrow,60,Andhra Pradesh,866,243
+20401,Jio,MTower, 702.00 ,Bulbul,34,Arunachal Pradesh,848,59
+20402,Airtel,GTower, 513.00 ,Kite,73,Assam,305,247
+20403,BSNL,LTower, 792.00 ,Spotted Dove,40,Bihar,884,222
+20404,Vodafone,GTower, 643.00 ,Bulbul,75,Chhattisgarh,345,112
+20405,Idea,LTower, 776.00 ,Kite,30,Goa,604,195
+20406,BSNL,MTower, 422.00 ,Spotted Dove,80,Gujarat,245,282
+20407,Jio,LTower, 676.00 ,Sparrow,62,Haryana,382,270
+20408,Airtel,GTower, 508.00 ,Sparrow,35,Himachal Pradesh,443,250
+20409,Vodafone,GTower, 372.00 ,Bulbul,38,Jharkhand,619,107
+20410,BSNL,MTower, 565.00 ,Kite,60,Karnataka,531,78
+20411,Idea,LTower, 849.00 ,Bulbul,65,Kerala,478,68
+20412,Jio,MTower, 822.00 ,Sparrow,79,Madhya Pradesh,829,175
+20413,Jio,GTower, 423.00 ,Spotted Dove,22,Maharashtra,150,256
+20414,Airtel,LTower, 676.00 ,Kite,24,Manipur,221,145
+20415,BSNL,MTower, 473.00 ,Bulbul,40,Meghalaya,829,172
+20416,Vodafone,GTower, 804.00 ,Sparrow,25,Mizoram,835,163
+20417,Idea,LTower, 583.00 ,Spotted Dove,79,Nagaland,557,65
+20418,BSNL,GTower, 511.00 ,Bulbul,65,Odisha,422,138
+20419,Jio,LTower, 700.00 ,Kite,59,Punjab,126,274
+20420,Airtel,MTower, 332.00 ,Sparrow,61,Rajasthan,729,229
+20421,Vodafone,LTower, 589.00 ,Spotted Dove,37,Sikkim,450,220
+20422,BSNL,GTower, 654.00 ,Kite,63,Tamil Nadu,386,110
+20423,Idea,GTower, 640.00 ,Bulbul,35,Telangana,394,267
+20424,Jio,MTower, 658.00 ,Sparrow,25,Tripura,463,92
+20425,Jio,LTower, 652.00 ,Bulbul,76,Uttarakhand,141,82
+20426,Airtel,MTower, 801.00 ,Kite,49,Uttar Pradesh,472,216
+20427,BSNL,GTower, 362.00 ,Spotted Dove,73,West Bengal,193,54
+20428,Vodafone,LTower, 498.00 ,Bulbul,32,Andhra Pradesh,685,290
+20429,Idea,MTower, 425.00 ,Kite,43,Arunachal Pradesh,509,56
+20430,BSNL,GTower, 664.00 ,Spotted Dove,58,Assam,794,191
+20431,Jio,LTower, 625.00 ,Sparrow,24,Bihar,246,265
+20432,Airtel,GTower, 456.00 ,Sparrow,59,Chhattisgarh,781,75
+20433,Vodafone,LTower, 536.00 ,Bulbul,73,Goa,120,266
+20434,BSNL,MTower, 381.00 ,Kite,23,Gujarat,201,55
+20435,Idea,LTower, 743.00 ,Bulbul,62,Haryana,203,133
+20436,Jio,GTower, 840.00 ,Sparrow,63,Himachal Pradesh,167,216
+20437,Jio,GTower, 647.00 ,Spotted Dove,43,Jharkhand,145,209
+20438,Airtel,MTower, 684.00 ,Kite,57,Karnataka,333,270
+20439,BSNL,LTower, 688.00 ,Bulbul,74,Kerala,262,174
+20440,Vodafone,MTower, 665.00 ,Sparrow,52,Madhya Pradesh,675,154
+20441,Idea,GTower, 711.00 ,Spotted Dove,43,Maharashtra,634,102
+20442,BSNL,LTower, 742.00 ,Bulbul,74,Manipur,141,178
+20443,Jio,MTower, 802.00 ,Kite,31,Meghalaya,849,51
+20444,Airtel,GTower, 550.00 ,Sparrow,59,Mizoram,845,50
+20445,Vodafone,LTower, 595.00 ,Spotted Dove,34,Nagaland,355,253
+20446,BSNL,GTower, 403.00 ,Kite,56,Odisha,606,64
+20447,Idea,LTower, 694.00 ,Bulbul,43,Punjab,100,244
+20448,Jio,MTower, 800.00 ,Sparrow,26,Rajasthan,623,83
+20449,Jio,LTower, 672.00 ,Bulbul,34,Sikkim,628,120
+20450,Airtel,GTower, 864.00 ,Kite,52,Tamil Nadu,835,122
+20451,BSNL,GTower, 444.00 ,Spotted Dove,69,Telangana,789,237
+20452,Vodafone,MTower, 870.00 ,Sparrow,29,Tripura,422,233
+20453,Idea,LTower, 831.00 ,Sparrow,59,Uttarakhand,270,92
+20454,BSNL,MTower, 302.00 ,Bulbul,39,Uttar Pradesh,139,77
+20455,Jio,GTower, 540.00 ,Kite,29,West Bengal,749,105
+20456,Airtel,LTower, 828.00 ,Bulbul,40,Andhra Pradesh,115,219
+20457,Vodafone,MTower, 844.00 ,Sparrow,27,Arunachal Pradesh,652,157
+20458,BSNL,GTower, 880.00 ,Spotted Dove,24,Assam,306,127
+20459,Idea,LTower, 568.00 ,Kite,38,Bihar,627,75
+20460,Jio,GTower, 800.00 ,Bulbul,54,Chhattisgarh,578,93
+20461,Jio,LTower, 347.00 ,Sparrow,33,Goa,411,235
+20462,Airtel,MTower, 889.00 ,Spotted Dove,52,Gujarat,351,259
+20463,BSNL,LTower, 830.00 ,Bulbul,23,Haryana,776,225
+20464,Vodafone,GTower, 322.00 ,Kite,54,Andhra Pradesh,301,269
+20465,Idea,GTower, 830.00 ,Sparrow,31,Arunachal Pradesh,415,271
+20466,BSNL,MTower, 573.00 ,Spotted Dove,78,Assam,578,133
+20467,Jio,LTower, 832.00 ,Kite,75,Bihar,323,69
+20468,Airtel,MTower, 486.00 ,Bulbul,51,Chhattisgarh,793,172
+20469,Vodafone,GTower, 337.00 ,Sparrow,51,Goa,689,171
+20470,BSNL,LTower, 626.00 ,Bulbul,30,Gujarat,817,176
+20471,Idea,MTower, 389.00 ,Kite,57,Haryana,427,152
+20472,Jio,GTower, 332.00 ,Spotted Dove,62,Himachal Pradesh,133,247
+20473,Jio,LTower, 788.00 ,Sparrow,67,Jharkhand,355,285
+20474,Airtel,GTower, 698.00 ,Sparrow,20,Karnataka,499,73
+20475,BSNL,LTower, 687.00 ,Bulbul,66,Kerala,169,299
+20476,Vodafone,MTower, 859.00 ,Kite,68,Madhya Pradesh,543,266
+20477,Idea,LTower, 368.00 ,Bulbul,74,Maharashtra,378,221
+20478,BSNL,GTower, 782.00 ,Sparrow,25,Manipur,239,131
+20479,Jio,GTower, 565.00 ,Spotted Dove,60,Meghalaya,737,202
+20480,Airtel,MTower, 433.00 ,Kite,58,Mizoram,393,168
+20481,Vodafone,LTower, 842.00 ,Bulbul,37,Nagaland,847,113
+20482,BSNL,MTower, 433.00 ,Sparrow,59,Odisha,900,231
+20483,Idea,GTower, 762.00 ,Spotted Dove,53,Punjab,572,262
+20484,Jio,LTower, 754.00 ,Bulbul,70,Rajasthan,823,139
+20485,Jio,MTower, 483.00 ,Kite,79,Sikkim,327,80
+20486,Airtel,GTower, 820.00 ,Sparrow,40,Tamil Nadu,240,77
+20487,BSNL,LTower, 536.00 ,Spotted Dove,30,Telangana,794,281
+20488,Vodafone,GTower, 578.00 ,Kite,25,Tripura,665,183
+20489,Idea,LTower, 721.00 ,Bulbul,72,Uttarakhand,613,168
+20490,BSNL,MTower, 850.00 ,Sparrow,69,Uttar Pradesh,167,164
+20491,Jio,LTower, 664.00 ,Bulbul,33,West Bengal,269,116
+20492,Airtel,GTower, 341.00 ,Kite,68,Andhra Pradesh,551,183
+20493,Vodafone,GTower, 382.00 ,Spotted Dove,76,Arunachal Pradesh,434,131
+20494,BSNL,MTower, 756.00 ,Sparrow,20,Assam,552,151
+20495,Idea,LTower, 567.00 ,Sparrow,36,Bihar,455,200
+20496,Jio,MTower, 562.00 ,Bulbul,41,Chhattisgarh,542,257
+20497,Jio,GTower, 891.00 ,Kite,33,Goa,823,165
+20498,Airtel,LTower, 796.00 ,Bulbul,45,Gujarat,669,135
+20499,BSNL,MTower, 892.00 ,Sparrow,70,Haryana,865,247
+20500,Vodafone,GTower, 535.00 ,Spotted Dove,53,Himachal Pradesh,698,73
+20501,Idea,LTower, 426.00 ,Kite,69,Jharkhand,773,239
+20502,BSNL,GTower, 313.00 ,Bulbul,38,Karnataka,142,91
+20503,Jio,LTower, 804.00 ,Sparrow,31,Kerala,163,178
+20504,Airtel,MTower, 843.00 ,Spotted Dove,56,Madhya Pradesh,612,230
+20505,Vodafone,LTower, 433.00 ,Bulbul,37,Maharashtra,853,140
+20506,BSNL,GTower, 393.00 ,Kite,20,Manipur,460,88
+20507,Idea,GTower, 701.00 ,Sparrow,49,Meghalaya,588,128
+20508,Jio,MTower, 463.00 ,Spotted Dove,23,Mizoram,172,103
+20509,Jio,LTower, 676.00 ,Kite,25,Nagaland,635,102
+20510,Airtel,MTower, 451.00 ,Bulbul,77,Odisha,411,234
+20511,BSNL,GTower, 334.00 ,Sparrow,66,Punjab,750,112
+20512,Vodafone,LTower, 460.00 ,Bulbul,73,Rajasthan,451,293
+20513,Idea,MTower, 663.00 ,Kite,38,Sikkim,804,216
+20514,BSNL,GTower, 641.00 ,Spotted Dove,38,Tamil Nadu,347,163
+20515,Jio,LTower, 544.00 ,Sparrow,61,Telangana,108,278
+20516,Airtel,GTower, 555.00 ,Sparrow,61,Tripura,510,203
+20517,Vodafone,LTower, 687.00 ,Bulbul,47,Uttarakhand,708,142
+20518,BSNL,MTower, 802.00 ,Kite,35,Uttar Pradesh,539,297
+20519,Idea,LTower, 812.00 ,Bulbul,31,West Bengal,332,74
+20520,Jio,GTower, 564.00 ,Sparrow,30,Andhra Pradesh,732,116
+20521,Jio,GTower, 459.00 ,Spotted Dove,20,Arunachal Pradesh,658,91
+20522,Airtel,MTower, 390.00 ,Kite,42,Assam,630,142
+20523,BSNL,LTower, 670.00 ,Bulbul,38,Bihar,359,282
+20524,Vodafone,MTower, 725.00 ,Sparrow,68,Chhattisgarh,629,282
+20525,Idea,GTower, 672.00 ,Spotted Dove,78,Goa,734,292
+20526,BSNL,LTower, 439.00 ,Bulbul,35,Gujarat,639,110
+20527,Jio,MTower, 767.00 ,Kite,47,Haryana,787,296
+20528,Airtel,GTower, 596.00 ,Sparrow,60,Andhra Pradesh,323,274
+20529,Vodafone,LTower, 471.00 ,Spotted Dove,39,Arunachal Pradesh,298,62
+20530,BSNL,GTower, 684.00 ,Kite,38,Assam,712,295
+20531,Idea,LTower, 492.00 ,Bulbul,76,Bihar,470,141
+20532,Jio,MTower, 560.00 ,Sparrow,77,Chhattisgarh,809,167
+20533,Jio,LTower, 734.00 ,Bulbul,64,Goa,784,189
+20534,Airtel,GTower, 568.00 ,Kite,60,Gujarat,833,287
+20535,BSNL,GTower, 820.00 ,Spotted Dove,67,Haryana,688,127
+20536,Vodafone,MTower, 538.00 ,Sparrow,47,Himachal Pradesh,297,106
+20537,Idea,LTower, 764.00 ,Sparrow,70,Jharkhand,786,73
+20538,BSNL,MTower, 734.00 ,Bulbul,49,Karnataka,251,134
+20539,Jio,GTower, 478.00 ,Kite,26,Kerala,208,84
+20540,Airtel,LTower, 678.00 ,Bulbul,72,Madhya Pradesh,574,193
+20541,Vodafone,MTower, 447.00 ,Sparrow,30,Maharashtra,895,184
+20542,BSNL,GTower, 732.00 ,Spotted Dove,27,Manipur,466,240
+20543,Idea,LTower, 821.00 ,Kite,80,Meghalaya,296,95
+20544,Jio,GTower, 633.00 ,Bulbul,45,Mizoram,396,98
+20545,Jio,LTower, 590.00 ,Sparrow,64,Nagaland,777,249
+20546,Airtel,MTower, 604.00 ,Spotted Dove,47,Odisha,397,68
+20547,BSNL,LTower, 862.00 ,Bulbul,64,Punjab,741,84
+20548,Vodafone,GTower, 773.00 ,Kite,38,Rajasthan,775,208
+20549,Idea,GTower, 761.00 ,Sparrow,68,Sikkim,790,57
+20550,BSNL,MTower, 674.00 ,Spotted Dove,58,Tamil Nadu,217,217
+20551,Jio,LTower, 868.00 ,Kite,36,Telangana,609,293
+20552,Airtel,MTower, 672.00 ,Bulbul,77,Tripura,721,233
+20553,Vodafone,GTower, 418.00 ,Sparrow,35,Uttarakhand,115,224
+20554,BSNL,LTower, 392.00 ,Bulbul,21,Uttar Pradesh,359,208
+20555,Idea,MTower, 705.00 ,Kite,58,West Bengal,442,267
+20556,Jio,GTower, 315.00 ,Spotted Dove,71,Andhra Pradesh,167,105
+20557,Jio,LTower, 820.00 ,Sparrow,78,Arunachal Pradesh,448,167
+20558,Airtel,GTower, 898.00 ,Sparrow,24,Assam,562,222
+20559,BSNL,LTower, 604.00 ,Bulbul,32,Bihar,724,254
+20560,Vodafone,MTower, 732.00 ,Kite,32,Chhattisgarh,297,165
+20561,Idea,LTower, 899.00 ,Bulbul,24,Goa,833,246
+20562,BSNL,GTower, 852.00 ,Sparrow,27,Gujarat,884,190
+20563,Jio,GTower, 590.00 ,Spotted Dove,54,Haryana,761,262
+20564,Airtel,MTower, 782.00 ,Kite,43,Himachal Pradesh,867,219
+20565,Vodafone,LTower, 383.00 ,Bulbul,54,Jharkhand,117,75
+20566,BSNL,MTower, 300.00 ,Sparrow,67,Karnataka,264,86
+20567,Idea,GTower, 634.00 ,Spotted Dove,62,Kerala,529,56
+20568,Jio,LTower, 361.00 ,Bulbul,55,Madhya Pradesh,658,90
+20569,Jio,MTower, 819.00 ,Kite,73,Maharashtra,832,285
+20570,Airtel,GTower, 554.00 ,Sparrow,20,Manipur,423,264
+20571,BSNL,LTower, 404.00 ,Spotted Dove,33,Meghalaya,398,251
+20572,Vodafone,GTower, 576.00 ,Kite,66,Mizoram,289,131
+20573,Idea,LTower, 422.00 ,Bulbul,48,Nagaland,230,232
+20574,BSNL,MTower, 443.00 ,Sparrow,42,Odisha,336,134
+20575,Jio,LTower, 642.00 ,Bulbul,30,Punjab,585,199
+20576,Airtel,GTower, 665.00 ,Kite,46,Rajasthan,628,79
+20577,Vodafone,GTower, 302.00 ,Spotted Dove,58,Sikkim,591,83
+20578,BSNL,MTower, 306.00 ,Sparrow,55,Tamil Nadu,379,191
+20579,Idea,LTower, 438.00 ,Sparrow,36,Telangana,715,254
+20580,Jio,MTower, 767.00 ,Bulbul,57,Tripura,839,150
+20581,Jio,GTower, 533.00 ,Kite,20,Uttarakhand,504,51
+20582,Airtel,LTower, 751.00 ,Bulbul,25,Uttar Pradesh,524,96
+20583,BSNL,MTower, 736.00 ,Sparrow,39,West Bengal,318,155
+20584,Vodafone,GTower, 722.00 ,Spotted Dove,78,Andhra Pradesh,548,295
+20585,Idea,LTower, 637.00 ,Kite,70,Arunachal Pradesh,167,191
+20586,BSNL,GTower, 849.00 ,Bulbul,67,Assam,151,67
+20587,Jio,LTower, 698.00 ,Sparrow,76,Bihar,742,143
+20588,Airtel,MTower, 540.00 ,Spotted Dove,58,Chhattisgarh,296,187
+20589,Vodafone,LTower, 320.00 ,Bulbul,80,Goa,431,227
+20590,BSNL,GTower, 355.00 ,Kite,66,Gujarat,793,183
+20591,Idea,GTower, 658.00 ,Sparrow,64,Haryana,562,117
+20592,Jio,MTower, 712.00 ,Spotted Dove,40,Andhra Pradesh,553,129
+20593,Jio,LTower, 437.00 ,Kite,50,Arunachal Pradesh,496,287
+20594,Airtel,MTower, 895.00 ,Bulbul,71,Assam,509,300
+20595,BSNL,GTower, 353.00 ,Sparrow,33,Bihar,330,298
+20596,Vodafone,LTower, 896.00 ,Bulbul,53,Chhattisgarh,225,72
+20597,Idea,MTower, 710.00 ,Kite,68,Goa,448,187
+20598,BSNL,GTower, 640.00 ,Spotted Dove,27,Gujarat,371,225
+20599,Jio,LTower, 707.00 ,Sparrow,34,Haryana,182,71
+20600,Airtel,GTower, 733.00 ,Sparrow,68,Himachal Pradesh,447,150
+20601,Vodafone,LTower, 606.00 ,Bulbul,80,Jharkhand,280,64
+20602,BSNL,MTower, 367.00 ,Kite,72,Karnataka,415,83
+20603,Idea,LTower, 523.00 ,Bulbul,32,Kerala,574,260
+20604,Jio,GTower, 514.00 ,Sparrow,56,Madhya Pradesh,805,282
+20605,Jio,GTower, 642.00 ,Spotted Dove,66,Maharashtra,507,199
+20606,Airtel,MTower, 761.00 ,Kite,74,Manipur,587,118
+20607,BSNL,LTower, 372.00 ,Bulbul,57,Meghalaya,814,140
+20608,Vodafone,MTower, 630.00 ,Sparrow,39,Mizoram,236,232
+20609,Idea,GTower, 717.00 ,Spotted Dove,42,Nagaland,574,59
+20610,BSNL,LTower, 603.00 ,Bulbul,55,Odisha,146,256
+20611,Jio,MTower, 621.00 ,Kite,49,Punjab,130,212
+20612,Airtel,GTower, 351.00 ,Sparrow,68,Rajasthan,267,81
+20613,Vodafone,LTower, 473.00 ,Spotted Dove,37,Sikkim,133,221
+20614,BSNL,GTower, 559.00 ,Kite,49,Tamil Nadu,284,175
+20615,Idea,LTower, 404.00 ,Bulbul,35,Telangana,686,145
+20616,Jio,MTower, 327.00 ,Sparrow,50,Tripura,430,132
+20617,Jio,LTower, 429.00 ,Bulbul,33,Uttarakhand,603,58
+20618,Airtel,GTower, 429.00 ,Kite,79,Uttar Pradesh,394,110
+20619,BSNL,GTower, 531.00 ,Spotted Dove,53,West Bengal,686,198
+20620,Vodafone,MTower, 704.00 ,Sparrow,27,Andhra Pradesh,421,145
+20621,Idea,LTower, 343.00 ,Sparrow,79,Arunachal Pradesh,631,212
+20622,BSNL,MTower, 497.00 ,Bulbul,43,Assam,568,221
+20623,Jio,GTower, 669.00 ,Kite,73,Bihar,728,223
+20624,Airtel,LTower, 885.00 ,Bulbul,56,Chhattisgarh,553,210
+20625,Vodafone,MTower, 882.00 ,Sparrow,53,Goa,163,172
+20626,BSNL,GTower, 542.00 ,Spotted Dove,34,Gujarat,486,185
+20627,Idea,LTower, 851.00 ,Kite,61,Haryana,548,97
+20628,Jio,GTower, 445.00 ,Bulbul,22,Himachal Pradesh,534,60
+20629,Jio,LTower, 328.00 ,Sparrow,25,Jharkhand,186,123
+20630,Airtel,MTower, 528.00 ,Spotted Dove,48,Karnataka,809,193
+20631,BSNL,LTower, 428.00 ,Bulbul,24,Kerala,459,179
+20632,Vodafone,GTower, 845.00 ,Kite,43,Madhya Pradesh,199,72
+20633,Idea,GTower, 815.00 ,Sparrow,61,Maharashtra,806,262
+20634,BSNL,MTower, 513.00 ,Spotted Dove,50,Manipur,458,198
+20635,Jio,LTower, 682.00 ,Kite,68,Meghalaya,788,183
+20636,Airtel,MTower, 853.00 ,Bulbul,50,Mizoram,699,135
+20637,Vodafone,GTower, 601.00 ,Sparrow,66,Nagaland,394,98
+20638,BSNL,LTower, 469.00 ,Bulbul,59,Odisha,550,61
+20639,Idea,MTower, 570.00 ,Kite,59,Punjab,317,52
+20640,Jio,GTower, 836.00 ,Spotted Dove,69,Rajasthan,689,146
+20641,Jio,LTower, 514.00 ,Sparrow,69,Sikkim,823,179
+20642,Airtel,GTower, 597.00 ,Sparrow,38,Tamil Nadu,601,285
+20643,BSNL,LTower, 463.00 ,Bulbul,62,Telangana,203,179
+20644,Vodafone,MTower, 845.00 ,Kite,75,Tripura,315,101
+20645,Idea,LTower, 596.00 ,Bulbul,30,Uttarakhand,232,262
+20646,BSNL,GTower, 659.00 ,Sparrow,47,Uttar Pradesh,887,106
+20647,Jio,GTower, 545.00 ,Spotted Dove,44,West Bengal,419,254
+20648,Airtel,MTower, 880.00 ,Kite,33,Andhra Pradesh,663,60
+20649,Vodafone,LTower, 876.00 ,Bulbul,60,Arunachal Pradesh,588,233
+20650,BSNL,MTower, 580.00 ,Sparrow,45,Assam,875,51
+20651,Idea,GTower, 324.00 ,Spotted Dove,52,Bihar,866,166
+20652,Jio,LTower, 737.00 ,Bulbul,68,Chhattisgarh,450,275
+20653,Jio,MTower, 358.00 ,Kite,55,Goa,540,287
+20654,Airtel,GTower, 864.00 ,Sparrow,54,Gujarat,132,101
+20655,BSNL,LTower, 542.00 ,Spotted Dove,59,Haryana,514,197
+20656,Vodafone,GTower, 363.00 ,Kite,25,Andhra Pradesh,560,261
+20657,Idea,LTower, 463.00 ,Bulbul,41,Arunachal Pradesh,462,184
+20658,BSNL,MTower, 746.00 ,Sparrow,61,Assam,386,217
+20659,Jio,LTower, 642.00 ,Bulbul,72,Bihar,310,202
+20660,Airtel,GTower, 748.00 ,Kite,30,Chhattisgarh,148,288
+20661,Vodafone,GTower, 326.00 ,Spotted Dove,40,Goa,872,65
+20662,BSNL,MTower, 787.00 ,Sparrow,43,Gujarat,885,117
+20663,Idea,LTower, 608.00 ,Sparrow,61,Haryana,414,269
+20664,Jio,MTower, 515.00 ,Bulbul,58,Himachal Pradesh,600,151
+20665,Jio,GTower, 443.00 ,Kite,52,Jharkhand,441,140
+20666,Airtel,LTower, 320.00 ,Bulbul,63,Karnataka,220,258
+20667,BSNL,MTower, 344.00 ,Sparrow,64,Kerala,290,80
+20668,Vodafone,GTower, 543.00 ,Spotted Dove,74,Madhya Pradesh,700,65
+20669,Idea,LTower, 519.00 ,Kite,58,Maharashtra,836,57
+20670,BSNL,GTower, 593.00 ,Bulbul,20,Manipur,720,124
+20671,Jio,LTower, 458.00 ,Sparrow,24,Meghalaya,342,120
+20672,Airtel,MTower, 586.00 ,Spotted Dove,26,Mizoram,463,216
+20673,Vodafone,LTower, 421.00 ,Bulbul,36,Nagaland,458,66
+20674,BSNL,GTower, 645.00 ,Kite,67,Odisha,268,74
+20675,Idea,GTower, 900.00 ,Sparrow,47,Punjab,393,113
+20676,Jio,MTower, 779.00 ,Spotted Dove,65,Rajasthan,439,198
+20677,Jio,LTower, 550.00 ,Kite,60,Sikkim,754,165
+20678,Airtel,MTower, 841.00 ,Bulbul,41,Tamil Nadu,867,275
+20679,BSNL,GTower, 525.00 ,Sparrow,26,Telangana,306,279
+20680,Vodafone,LTower, 741.00 ,Bulbul,21,Tripura,674,242
+20681,Idea,MTower, 547.00 ,Kite,39,Uttarakhand,654,127
+20682,BSNL,GTower, 883.00 ,Spotted Dove,61,Uttar Pradesh,364,121
+20683,Jio,LTower, 572.00 ,Sparrow,40,West Bengal,712,139
+20684,Airtel,GTower, 780.00 ,Sparrow,40,Andhra Pradesh,674,217
+20685,Vodafone,LTower, 887.00 ,Bulbul,64,Arunachal Pradesh,423,195
+20686,BSNL,MTower, 617.00 ,Kite,67,Assam,540,237
+20687,Idea,LTower, 574.00 ,Bulbul,29,Bihar,441,165
+20688,Jio,GTower, 859.00 ,Sparrow,25,Chhattisgarh,554,159
+20689,Jio,GTower, 337.00 ,Spotted Dove,20,Goa,540,264
+20690,Airtel,MTower, 437.00 ,Kite,25,Gujarat,473,162
+20691,BSNL,LTower, 426.00 ,Bulbul,73,Haryana,641,122
+20692,Vodafone,MTower, 486.00 ,Sparrow,67,Himachal Pradesh,443,234
+20693,Idea,GTower, 865.00 ,Spotted Dove,55,Jharkhand,390,112
+20694,BSNL,LTower, 786.00 ,Bulbul,50,Karnataka,446,227
+20695,Jio,MTower, 475.00 ,Kite,79,Kerala,544,160
+20696,Airtel,GTower, 339.00 ,Sparrow,27,Madhya Pradesh,779,120
+20697,Vodafone,LTower, 402.00 ,Spotted Dove,30,Maharashtra,278,273
+20698,BSNL,GTower, 715.00 ,Kite,55,Manipur,470,220
+20699,Idea,LTower, 687.00 ,Bulbul,70,Meghalaya,280,102
+20700,Jio,MTower, 730.00 ,Sparrow,59,Mizoram,293,168
+20701,Jio,LTower, 531.00 ,Bulbul,51,Nagaland,738,253
+20702,Airtel,GTower, 603.00 ,Kite,34,Odisha,363,213
+20703,BSNL,GTower, 435.00 ,Spotted Dove,66,Punjab,717,293
+20704,Vodafone,MTower, 743.00 ,Sparrow,39,Rajasthan,142,225
+20705,Idea,LTower, 491.00 ,Sparrow,79,Sikkim,556,234
+20706,BSNL,MTower, 851.00 ,Bulbul,56,Tamil Nadu,183,146
+20707,Jio,GTower, 822.00 ,Kite,25,Telangana,216,252
+20708,Airtel,LTower, 640.00 ,Bulbul,30,Tripura,806,217
+20709,Vodafone,MTower, 587.00 ,Sparrow,53,Uttarakhand,647,142
+20710,BSNL,GTower, 382.00 ,Spotted Dove,71,Uttar Pradesh,220,279
+20711,Idea,LTower, 552.00 ,Kite,22,West Bengal,683,262
+20712,Jio,GTower, 885.00 ,Bulbul,43,Andhra Pradesh,699,63
+20713,Jio,LTower, 849.00 ,Sparrow,46,Arunachal Pradesh,773,286
+20714,Airtel,MTower, 522.00 ,Spotted Dove,26,Assam,849,178
+20715,BSNL,LTower, 330.00 ,Bulbul,78,Bihar,553,92
+20716,Vodafone,GTower, 809.00 ,Kite,53,Chhattisgarh,876,253
+20717,Idea,GTower, 408.00 ,Sparrow,28,Goa,624,176
+20718,BSNL,MTower, 497.00 ,Spotted Dove,26,Gujarat,892,150
+20719,Jio,LTower, 761.00 ,Kite,40,Haryana,827,298
+20720,Airtel,MTower, 400.00 ,Bulbul,28,Andhra Pradesh,714,169
+20721,Vodafone,GTower, 889.00 ,Sparrow,38,Arunachal Pradesh,344,75
+20722,BSNL,LTower, 666.00 ,Bulbul,58,Assam,327,291
+20723,Idea,MTower, 730.00 ,Kite,26,Bihar,758,246
+20724,Jio,GTower, 872.00 ,Spotted Dove,42,Chhattisgarh,789,213
+20725,Jio,LTower, 889.00 ,Sparrow,36,Goa,244,55
+20726,Airtel,GTower, 540.00 ,Sparrow,20,Gujarat,254,63
+20727,BSNL,LTower, 598.00 ,Bulbul,43,Haryana,473,246
+20728,Vodafone,MTower, 356.00 ,Kite,33,Himachal Pradesh,556,171
+20729,Idea,LTower, 820.00 ,Bulbul,61,Jharkhand,426,63
+20730,BSNL,GTower, 304.00 ,Sparrow,67,Karnataka,762,194
+20731,Jio,GTower, 311.00 ,Spotted Dove,67,Kerala,766,266
+20732,Airtel,MTower, 428.00 ,Kite,38,Madhya Pradesh,108,103
+20733,Vodafone,LTower, 706.00 ,Bulbul,21,Maharashtra,107,281
+20734,BSNL,MTower, 616.00 ,Sparrow,22,Manipur,698,195
+20735,Idea,GTower, 341.00 ,Spotted Dove,72,Meghalaya,112,290
+20736,Jio,LTower, 323.00 ,Bulbul,52,Mizoram,545,133
+20737,Jio,MTower, 492.00 ,Kite,54,Nagaland,811,260
+20738,Airtel,GTower, 418.00 ,Sparrow,24,Odisha,569,201
+20739,BSNL,LTower, 342.00 ,Spotted Dove,40,Punjab,477,295
+20740,Vodafone,GTower, 349.00 ,Kite,50,Rajasthan,896,55
+20741,Idea,LTower, 729.00 ,Bulbul,37,Sikkim,759,90
+20742,BSNL,MTower, 426.00 ,Sparrow,25,Tamil Nadu,189,50
+20743,Jio,LTower, 793.00 ,Bulbul,71,Telangana,297,162
+20744,Airtel,GTower, 644.00 ,Kite,52,Tripura,800,185
+20745,Vodafone,GTower, 334.00 ,Spotted Dove,78,Uttarakhand,890,210
+20746,BSNL,MTower, 859.00 ,Sparrow,36,Uttar Pradesh,613,134
+20747,Idea,LTower, 715.00 ,Sparrow,49,West Bengal,274,212
+20748,Jio,MTower, 644.00 ,Bulbul,62,Andhra Pradesh,408,119
+20749,Jio,GTower, 623.00 ,Kite,73,Arunachal Pradesh,101,95
+20750,Airtel,LTower, 716.00 ,Bulbul,40,Assam,795,171
+20751,BSNL,MTower, 680.00 ,Sparrow,35,Bihar,417,197
+20752,Vodafone,GTower, 523.00 ,Spotted Dove,42,Chhattisgarh,449,289
+20753,Idea,LTower, 386.00 ,Kite,77,Goa,185,271
+20754,BSNL,GTower, 363.00 ,Bulbul,31,Gujarat,453,230
+20755,Jio,LTower, 749.00 ,Sparrow,54,Haryana,462,263
+20756,Airtel,MTower, 534.00 ,Spotted Dove,70,Himachal Pradesh,880,263
+20757,Vodafone,LTower, 538.00 ,Bulbul,47,Jharkhand,302,200
+20758,BSNL,GTower, 471.00 ,Kite,26,Karnataka,268,198
+20759,Idea,GTower, 445.00 ,Sparrow,79,Kerala,170,281
+20760,Jio,MTower, 852.00 ,Spotted Dove,60,Madhya Pradesh,433,101
+20761,Jio,LTower, 899.00 ,Kite,41,Maharashtra,343,94
+20762,Airtel,MTower, 483.00 ,Bulbul,62,Manipur,310,127
+20763,BSNL,GTower, 627.00 ,Sparrow,60,Meghalaya,313,267
+20764,Vodafone,LTower, 804.00 ,Bulbul,80,Mizoram,253,124
+20765,Idea,MTower, 378.00 ,Kite,30,Nagaland,180,133
+20766,BSNL,GTower, 480.00 ,Spotted Dove,45,Odisha,526,199
+20767,Jio,LTower, 865.00 ,Sparrow,22,Punjab,143,260
+20768,Airtel,GTower, 729.00 ,Sparrow,64,Rajasthan,682,233
+20769,Vodafone,LTower, 564.00 ,Bulbul,28,Sikkim,559,157
+20770,BSNL,MTower, 394.00 ,Kite,46,Tamil Nadu,319,114
+20771,Idea,LTower, 466.00 ,Bulbul,33,Telangana,491,154
+20772,Jio,GTower, 417.00 ,Sparrow,55,Tripura,742,166
+20773,Jio,GTower, 862.00 ,Spotted Dove,33,Uttarakhand,495,277
+20774,Airtel,MTower, 465.00 ,Kite,73,Uttar Pradesh,629,83
+20775,BSNL,LTower, 750.00 ,Bulbul,64,West Bengal,479,283
+20776,Vodafone,MTower, 388.00 ,Sparrow,43,Andhra Pradesh,742,278
+20777,Idea,GTower, 413.00 ,Spotted Dove,44,Arunachal Pradesh,338,257
+20778,BSNL,LTower, 697.00 ,Bulbul,74,Assam,614,207
+20779,Jio,MTower, 548.00 ,Kite,73,Bihar,277,203
+20780,Airtel,GTower, 735.00 ,Sparrow,63,Chhattisgarh,481,126
+20781,Vodafone,LTower, 459.00 ,Spotted Dove,25,Goa,772,102
+20782,BSNL,GTower, 389.00 ,Kite,35,Gujarat,713,208
+20783,Idea,LTower, 778.00 ,Bulbul,36,Haryana,353,137
+20784,Jio,MTower, 877.00 ,Sparrow,64,Andhra Pradesh,439,129
+20785,Jio,LTower, 691.00 ,Bulbul,27,Arunachal Pradesh,891,195
+20786,Airtel,GTower, 538.00 ,Kite,36,Assam,337,255
+20787,BSNL,GTower, 447.00 ,Spotted Dove,34,Bihar,405,255
+20788,Vodafone,MTower, 733.00 ,Sparrow,25,Chhattisgarh,187,70
+20789,Idea,LTower, 864.00 ,Sparrow,58,Goa,612,78
+20790,BSNL,MTower, 867.00 ,Bulbul,22,Gujarat,242,70
+20791,Jio,GTower, 830.00 ,Kite,62,Haryana,374,295
+20792,Airtel,LTower, 389.00 ,Bulbul,20,Himachal Pradesh,827,268
+20793,Vodafone,MTower, 410.00 ,Sparrow,48,Jharkhand,242,60
+20794,BSNL,GTower, 358.00 ,Spotted Dove,61,Karnataka,257,90
+20795,Idea,LTower, 664.00 ,Kite,78,Kerala,178,266
+20796,Jio,GTower, 830.00 ,Bulbul,25,Madhya Pradesh,379,278
+20797,Jio,LTower, 864.00 ,Sparrow,28,Maharashtra,771,166
+20798,Airtel,MTower, 454.00 ,Spotted Dove,79,Manipur,415,281
+20799,BSNL,LTower, 883.00 ,Bulbul,75,Meghalaya,700,237
+20800,Vodafone,GTower, 655.00 ,Kite,65,Mizoram,224,103
+20801,Idea,GTower, 730.00 ,Sparrow,58,Nagaland,132,97
+20802,BSNL,MTower, 776.00 ,Spotted Dove,62,Odisha,692,178
+20803,Jio,LTower, 573.00 ,Kite,55,Punjab,700,112
+20804,Airtel,MTower, 659.00 ,Bulbul,50,Rajasthan,883,184
+20805,Vodafone,GTower, 870.00 ,Sparrow,31,Sikkim,585,103
+20806,BSNL,LTower, 689.00 ,Bulbul,70,Tamil Nadu,874,126
+20807,Idea,MTower, 444.00 ,Kite,39,Telangana,224,240
+20808,Jio,GTower, 827.00 ,Spotted Dove,68,Tripura,864,275
+20809,Jio,LTower, 508.00 ,Sparrow,29,Uttarakhand,892,209
+20810,Airtel,GTower, 450.00 ,Sparrow,27,Uttar Pradesh,461,103
+20811,BSNL,LTower, 574.00 ,Bulbul,44,West Bengal,433,109
+20812,Vodafone,MTower, 830.00 ,Kite,79,Andhra Pradesh,880,231
+20813,Idea,LTower, 721.00 ,Bulbul,32,Arunachal Pradesh,803,69
+20814,BSNL,GTower, 304.00 ,Sparrow,60,Assam,368,114
+20815,Jio,GTower, 838.00 ,Spotted Dove,27,Bihar,428,263
+20816,Airtel,MTower, 781.00 ,Kite,22,Chhattisgarh,533,289
+20817,Vodafone,LTower, 467.00 ,Bulbul,41,Goa,488,170
+20818,BSNL,MTower, 681.00 ,Sparrow,57,Gujarat,868,68
+20819,Idea,GTower, 847.00 ,Spotted Dove,73,Haryana,839,67
+20820,Jio,LTower, 466.00 ,Bulbul,63,Himachal Pradesh,615,174
+20821,Jio,MTower, 809.00 ,Kite,23,Jharkhand,697,76
+20822,Airtel,GTower, 606.00 ,Sparrow,69,Karnataka,279,130
+20823,BSNL,LTower, 639.00 ,Spotted Dove,63,Kerala,330,176
+20824,Vodafone,GTower, 510.00 ,Kite,51,Madhya Pradesh,463,165
+20825,Idea,LTower, 558.00 ,Bulbul,75,Maharashtra,104,110
+20826,BSNL,MTower, 834.00 ,Sparrow,56,Manipur,465,99
+20827,Jio,LTower, 397.00 ,Bulbul,35,Meghalaya,418,95
+20828,Airtel,GTower, 561.00 ,Kite,60,Mizoram,348,134
+20829,Vodafone,GTower, 446.00 ,Spotted Dove,51,Nagaland,246,265
+20830,BSNL,MTower, 490.00 ,Sparrow,78,Odisha,423,265
+20831,Idea,LTower, 405.00 ,Sparrow,45,Punjab,564,102
+20832,Jio,MTower, 804.00 ,Bulbul,71,Rajasthan,329,241
+20833,Jio,GTower, 686.00 ,Kite,42,Sikkim,426,152
+20834,Airtel,LTower, 608.00 ,Bulbul,45,Tamil Nadu,898,91
+20835,BSNL,MTower, 371.00 ,Sparrow,28,Telangana,637,52
+20836,Vodafone,GTower, 786.00 ,Spotted Dove,71,Tripura,407,90
+20837,Idea,LTower, 527.00 ,Kite,75,Uttarakhand,305,156
+20838,BSNL,GTower, 514.00 ,Bulbul,66,Uttar Pradesh,356,244
+20839,Jio,LTower, 700.00 ,Sparrow,24,West Bengal,362,205
+20840,Airtel,MTower, 387.00 ,Spotted Dove,35,Andhra Pradesh,487,81
+20841,Vodafone,LTower, 629.00 ,Bulbul,25,Arunachal Pradesh,379,56
+20842,BSNL,GTower, 719.00 ,Kite,60,Assam,529,234
+20843,Idea,GTower, 791.00 ,Sparrow,42,Bihar,289,292
+20844,Jio,MTower, 641.00 ,Spotted Dove,80,Chhattisgarh,460,216
+20845,Jio,LTower, 329.00 ,Kite,39,Goa,713,295
+20846,Airtel,MTower, 379.00 ,Bulbul,71,Gujarat,494,283
+20847,BSNL,GTower, 432.00 ,Sparrow,26,Haryana,730,237
+20848,Vodafone,LTower, 535.00 ,Bulbul,32,Andhra Pradesh,590,132
+20849,Idea,MTower, 317.00 ,Kite,22,Arunachal Pradesh,552,128
+20850,BSNL,GTower, 644.00 ,Spotted Dove,39,Assam,297,138
+20851,Jio,LTower, 791.00 ,Sparrow,51,Bihar,244,300
+20852,Airtel,GTower, 648.00 ,Sparrow,75,Chhattisgarh,688,100
+20853,Vodafone,LTower, 334.00 ,Bulbul,70,Goa,558,74
+20854,BSNL,MTower, 718.00 ,Kite,61,Gujarat,473,67
+20855,Idea,LTower, 579.00 ,Bulbul,77,Haryana,520,152
+20856,Jio,GTower, 386.00 ,Sparrow,65,Himachal Pradesh,100,243
+20857,Jio,GTower, 481.00 ,Spotted Dove,46,Jharkhand,562,231
+20858,Airtel,MTower, 484.00 ,Kite,53,Karnataka,537,71
+20859,BSNL,LTower, 300.00 ,Bulbul,28,Kerala,772,228
+20860,Vodafone,MTower, 883.00 ,Sparrow,69,Madhya Pradesh,644,101
+20861,Idea,GTower, 462.00 ,Spotted Dove,64,Maharashtra,721,51
+20862,BSNL,LTower, 835.00 ,Bulbul,25,Manipur,482,283
+20863,Jio,MTower, 693.00 ,Kite,30,Meghalaya,448,276
+20864,Airtel,GTower, 841.00 ,Sparrow,27,Mizoram,297,171
+20865,Vodafone,LTower, 766.00 ,Spotted Dove,23,Nagaland,592,255
+20866,BSNL,GTower, 670.00 ,Kite,42,Odisha,569,186
+20867,Idea,LTower, 313.00 ,Bulbul,80,Punjab,830,93
+20868,Jio,MTower, 637.00 ,Sparrow,80,Rajasthan,639,168
+20869,Jio,LTower, 600.00 ,Bulbul,45,Sikkim,230,164
+20870,Airtel,GTower, 361.00 ,Kite,75,Tamil Nadu,299,247
+20871,BSNL,GTower, 647.00 ,Spotted Dove,49,Telangana,701,116
+20872,Vodafone,MTower, 549.00 ,Sparrow,43,Tripura,720,152
+20873,Idea,LTower, 660.00 ,Sparrow,52,Uttarakhand,479,96
+20874,BSNL,MTower, 789.00 ,Bulbul,63,Uttar Pradesh,788,285
+20875,Jio,GTower, 702.00 ,Kite,59,West Bengal,900,199
+20876,Airtel,LTower, 873.00 ,Bulbul,49,Andhra Pradesh,548,126
+20877,Vodafone,MTower, 524.00 ,Sparrow,28,Arunachal Pradesh,223,197
+20878,BSNL,GTower, 643.00 ,Spotted Dove,42,Assam,743,135
+20879,Idea,LTower, 355.00 ,Kite,38,Bihar,343,186
+20880,Jio,GTower, 415.00 ,Bulbul,26,Chhattisgarh,336,186
+20881,Jio,LTower, 755.00 ,Sparrow,23,Goa,524,248
+20882,Airtel,MTower, 306.00 ,Spotted Dove,63,Gujarat,158,123
+20883,BSNL,LTower, 900.00 ,Bulbul,45,Haryana,175,249
+20884,Vodafone,GTower, 750.00 ,Kite,52,Himachal Pradesh,644,194
+20885,Idea,GTower, 316.00 ,Sparrow,58,Jharkhand,118,256
+20886,BSNL,MTower, 645.00 ,Spotted Dove,76,Karnataka,323,260
+20887,Jio,LTower, 516.00 ,Kite,24,Kerala,804,108
+20888,Airtel,MTower, 610.00 ,Bulbul,21,Madhya Pradesh,872,178
+20889,Vodafone,GTower, 863.00 ,Sparrow,66,Maharashtra,857,281
+20890,BSNL,LTower, 801.00 ,Bulbul,74,Manipur,681,205
+20891,Idea,MTower, 392.00 ,Kite,20,Meghalaya,215,215
+20892,Jio,GTower, 433.00 ,Spotted Dove,80,Mizoram,667,57
+20893,Jio,LTower, 658.00 ,Sparrow,23,Nagaland,669,94
+20894,Airtel,GTower, 761.00 ,Sparrow,77,Odisha,754,142
+20895,BSNL,LTower, 828.00 ,Bulbul,54,Punjab,494,141
+20896,Vodafone,MTower, 815.00 ,Kite,37,Rajasthan,839,263
+20897,Idea,LTower, 630.00 ,Bulbul,63,Sikkim,893,172
+20898,BSNL,GTower, 351.00 ,Sparrow,65,Tamil Nadu,863,167
+20899,Jio,GTower, 303.00 ,Spotted Dove,54,Telangana,637,199
+20900,Airtel,MTower, 346.00 ,Kite,43,Tripura,114,54
+20901,Vodafone,LTower, 626.00 ,Bulbul,56,Uttarakhand,143,216
+20902,BSNL,MTower, 896.00 ,Sparrow,70,Uttar Pradesh,892,189
+20903,Idea,GTower, 321.00 ,Spotted Dove,42,West Bengal,542,199
+20904,Jio,LTower, 352.00 ,Bulbul,72,Andhra Pradesh,511,114
+20905,Jio,MTower, 879.00 ,Kite,62,Arunachal Pradesh,729,97
+20906,Airtel,GTower, 491.00 ,Sparrow,25,Assam,612,228
+20907,BSNL,LTower, 823.00 ,Spotted Dove,76,Bihar,781,195
+20908,Vodafone,GTower, 694.00 ,Kite,63,Chhattisgarh,439,217
+20909,Idea,LTower, 789.00 ,Bulbul,58,Goa,542,227
+20910,BSNL,MTower, 387.00 ,Sparrow,57,Gujarat,199,262
+20911,Jio,LTower, 593.00 ,Bulbul,36,Haryana,182,120
+20912,Airtel,GTower, 542.00 ,Kite,47,Andhra Pradesh,736,286
+20913,Vodafone,GTower, 671.00 ,Spotted Dove,52,Arunachal Pradesh,441,292
+20914,BSNL,MTower, 774.00 ,Sparrow,30,Assam,800,117
+20915,Idea,LTower, 422.00 ,Sparrow,74,Bihar,248,152
+20916,Jio,MTower, 721.00 ,Bulbul,45,Chhattisgarh,717,274
+20917,Jio,GTower, 368.00 ,Kite,38,Goa,285,52
+20918,Airtel,LTower, 464.00 ,Bulbul,28,Gujarat,762,246
+20919,BSNL,MTower, 759.00 ,Sparrow,28,Haryana,501,254
+20920,Vodafone,GTower, 649.00 ,Spotted Dove,56,Himachal Pradesh,257,187
+20921,Idea,LTower, 799.00 ,Kite,38,Jharkhand,143,54
+20922,BSNL,GTower, 383.00 ,Bulbul,47,Karnataka,363,127
+20923,Jio,LTower, 767.00 ,Sparrow,54,Kerala,535,124
+20924,Airtel,MTower, 832.00 ,Spotted Dove,55,Madhya Pradesh,590,106
+20925,Vodafone,LTower, 409.00 ,Bulbul,78,Maharashtra,514,287
+20926,BSNL,GTower, 343.00 ,Kite,31,Manipur,179,96
+20927,Idea,GTower, 781.00 ,Sparrow,33,Meghalaya,245,145
+20928,Jio,MTower, 738.00 ,Spotted Dove,64,Mizoram,268,76
+20929,Jio,LTower, 431.00 ,Kite,21,Nagaland,199,103
+20930,Airtel,MTower, 891.00 ,Bulbul,51,Odisha,354,77
+20931,BSNL,GTower, 820.00 ,Sparrow,22,Punjab,567,127
+20932,Vodafone,LTower, 329.00 ,Bulbul,77,Rajasthan,121,274
+20933,Idea,MTower, 819.00 ,Kite,25,Sikkim,482,97
+20934,BSNL,GTower, 418.00 ,Spotted Dove,29,Tamil Nadu,609,257
+20935,Jio,LTower, 889.00 ,Sparrow,54,Telangana,105,206
+20936,Airtel,GTower, 335.00 ,Sparrow,33,Tripura,360,232
+20937,Vodafone,LTower, 441.00 ,Bulbul,56,Uttarakhand,105,259
+20938,BSNL,MTower, 836.00 ,Kite,43,Uttar Pradesh,378,284
+20939,Idea,LTower, 631.00 ,Bulbul,62,West Bengal,897,97
+20940,Jio,GTower, 459.00 ,Sparrow,29,Andhra Pradesh,290,97
+20941,Jio,GTower, 427.00 ,Spotted Dove,70,Arunachal Pradesh,690,117
+20942,Airtel,MTower, 446.00 ,Kite,50,Assam,296,64
+20943,BSNL,LTower, 300.00 ,Bulbul,65,Bihar,309,74
+20944,Vodafone,MTower, 739.00 ,Sparrow,45,Chhattisgarh,509,226
+20945,Idea,GTower, 515.00 ,Spotted Dove,29,Goa,826,230
+20946,BSNL,LTower, 848.00 ,Bulbul,22,Gujarat,436,93
+20947,Jio,MTower, 792.00 ,Kite,53,Haryana,858,268
+20948,Airtel,GTower, 620.00 ,Sparrow,74,Himachal Pradesh,395,150
+20949,Vodafone,LTower, 780.00 ,Spotted Dove,32,Jharkhand,535,278
+20950,BSNL,GTower, 811.00 ,Kite,53,Karnataka,144,143
+20951,Idea,LTower, 391.00 ,Bulbul,30,Kerala,889,135
+20952,Jio,MTower, 411.00 ,Sparrow,62,Madhya Pradesh,609,115
+20953,Jio,LTower, 411.00 ,Bulbul,49,Maharashtra,176,230
+20954,Airtel,GTower, 712.00 ,Kite,70,Manipur,447,172
+20955,BSNL,GTower, 538.00 ,Spotted Dove,60,Meghalaya,380,104
+20956,Vodafone,MTower, 652.00 ,Sparrow,80,Mizoram,616,69
+20957,Idea,LTower, 408.00 ,Sparrow,74,Nagaland,617,230
+20958,BSNL,MTower, 472.00 ,Bulbul,38,Odisha,252,85
+20959,Jio,GTower, 765.00 ,Kite,55,Punjab,252,156
+20960,Airtel,LTower, 753.00 ,Bulbul,63,Rajasthan,608,139
+20961,Vodafone,MTower, 377.00 ,Sparrow,59,Sikkim,576,279
+20962,BSNL,GTower, 755.00 ,Spotted Dove,79,Tamil Nadu,245,246
+20963,Idea,LTower, 478.00 ,Kite,43,Telangana,504,141
+20964,Jio,GTower, 358.00 ,Bulbul,69,Tripura,755,165
+20965,Jio,LTower, 766.00 ,Sparrow,79,Uttarakhand,360,209
+20966,Airtel,MTower, 375.00 ,Spotted Dove,74,Uttar Pradesh,700,117
+20967,BSNL,LTower, 683.00 ,Bulbul,61,West Bengal,416,200
+20968,Vodafone,GTower, 470.00 ,Kite,25,Andhra Pradesh,896,180
+20969,Idea,GTower, 514.00 ,Sparrow,67,Arunachal Pradesh,288,109
+20970,BSNL,MTower, 435.00 ,Spotted Dove,79,Assam,130,100
+20971,Jio,LTower, 504.00 ,Kite,58,Bihar,343,269
+20972,Airtel,MTower, 534.00 ,Bulbul,41,Chhattisgarh,562,179
+20973,Vodafone,GTower, 517.00 ,Sparrow,46,Goa,644,59
+20974,BSNL,LTower, 752.00 ,Bulbul,71,Gujarat,491,98
+20975,Idea,MTower, 375.00 ,Kite,61,Haryana,253,90
+20976,Jio,GTower, 435.00 ,Spotted Dove,53,Andhra Pradesh,565,213
+20977,Jio,LTower, 835.00 ,Sparrow,39,Arunachal Pradesh,262,65
+20978,Airtel,GTower, 441.00 ,Sparrow,76,Assam,234,180
+20979,BSNL,LTower, 338.00 ,Bulbul,75,Bihar,241,229
+20980,Vodafone,MTower, 475.00 ,Kite,26,Chhattisgarh,123,171
+20981,Idea,LTower, 348.00 ,Bulbul,63,Goa,119,132
+20982,BSNL,GTower, 839.00 ,Sparrow,42,Gujarat,546,207
+20983,Jio,GTower, 888.00 ,Spotted Dove,76,Haryana,704,153
+20984,Airtel,MTower, 311.00 ,Kite,46,Himachal Pradesh,842,95
+20985,Vodafone,LTower, 797.00 ,Bulbul,20,Jharkhand,667,93
+20986,BSNL,MTower, 487.00 ,Sparrow,57,Karnataka,434,153
+20987,Idea,GTower, 419.00 ,Spotted Dove,38,Kerala,392,209
+20988,Jio,LTower, 316.00 ,Bulbul,72,Madhya Pradesh,843,153
+20989,Jio,MTower, 310.00 ,Kite,64,Maharashtra,345,196
+20990,Airtel,GTower, 672.00 ,Sparrow,49,Manipur,412,232
+20991,BSNL,LTower, 723.00 ,Spotted Dove,80,Meghalaya,242,78
+20992,Vodafone,GTower, 605.00 ,Kite,66,Mizoram,548,200
+20993,Idea,LTower, 582.00 ,Bulbul,40,Nagaland,739,172
+20994,BSNL,MTower, 511.00 ,Sparrow,66,Odisha,706,204
+20995,Jio,LTower, 596.00 ,Bulbul,60,Punjab,736,190
+20996,Airtel,GTower, 393.00 ,Kite,62,Rajasthan,766,98
+20997,Vodafone,GTower, 523.00 ,Spotted Dove,26,Sikkim,889,212
+20998,BSNL,MTower, 494.00 ,Sparrow,42,Tamil Nadu,725,83
+20999,Idea,LTower, 542.00 ,Sparrow,23,Telangana,503,55
+21000,Jio,MTower, 357.00 ,Bulbul,63,Tripura,375,160
+21001,Jio,GTower, 595.00 ,Kite,70,Uttarakhand,217,202
+21002,Airtel,LTower, 657.00 ,Bulbul,77,Uttar Pradesh,612,164
+21003,BSNL,MTower, 772.00 ,Sparrow,45,West Bengal,272,151
+21004,Vodafone,GTower, 548.00 ,Spotted Dove,79,Andhra Pradesh,155,121
+21005,Idea,LTower, 317.00 ,Kite,72,Arunachal Pradesh,606,293
+21006,BSNL,GTower, 539.00 ,Bulbul,26,Assam,753,122
+21007,Jio,LTower, 621.00 ,Sparrow,23,Bihar,458,201
+21008,Airtel,MTower, 798.00 ,Spotted Dove,23,Chhattisgarh,181,144
+21009,Vodafone,LTower, 303.00 ,Bulbul,62,Goa,648,135
+21010,BSNL,GTower, 435.00 ,Kite,80,Gujarat,658,180
+21011,Idea,GTower, 610.00 ,Sparrow,80,Haryana,864,236
+21012,Jio,MTower, 695.00 ,Spotted Dove,79,Himachal Pradesh,741,251
+21013,Jio,LTower, 671.00 ,Kite,42,Jharkhand,721,224
+21014,Airtel,MTower, 825.00 ,Bulbul,72,Karnataka,174,152
+21015,BSNL,GTower, 459.00 ,Sparrow,36,Kerala,304,90
+21016,Vodafone,LTower, 682.00 ,Bulbul,37,Madhya Pradesh,194,258
+21017,Idea,MTower, 679.00 ,Kite,49,Maharashtra,305,264
+21018,BSNL,GTower, 415.00 ,Spotted Dove,32,Manipur,343,279
+21019,Jio,LTower, 433.00 ,Sparrow,79,Meghalaya,650,52
+21020,Airtel,GTower, 459.00 ,Sparrow,44,Mizoram,243,246
+21021,Vodafone,LTower, 645.00 ,Bulbul,58,Nagaland,850,276
+21022,BSNL,MTower, 433.00 ,Kite,22,Odisha,596,292
+21023,Idea,LTower, 481.00 ,Bulbul,42,Punjab,727,118
+21024,Jio,GTower, 423.00 ,Sparrow,47,Rajasthan,123,292
+21025,Jio,GTower, 692.00 ,Spotted Dove,58,Sikkim,664,274
+21026,Airtel,MTower, 822.00 ,Kite,63,Tamil Nadu,172,204
+21027,BSNL,LTower, 558.00 ,Bulbul,64,Telangana,507,177
+21028,Vodafone,MTower, 726.00 ,Sparrow,61,Tripura,414,92
+21029,Idea,GTower, 771.00 ,Spotted Dove,50,Uttarakhand,515,116
+21030,BSNL,LTower, 785.00 ,Bulbul,64,Uttar Pradesh,440,187
+21031,Jio,MTower, 448.00 ,Kite,46,West Bengal,104,236
+21032,Airtel,GTower, 826.00 ,Sparrow,50,Andhra Pradesh,156,251
+21033,Vodafone,LTower, 495.00 ,Spotted Dove,80,Arunachal Pradesh,694,242
+21034,BSNL,GTower, 855.00 ,Kite,58,Assam,614,250
+21035,Idea,LTower, 477.00 ,Bulbul,78,Bihar,478,259
+21036,Jio,MTower, 740.00 ,Sparrow,63,Chhattisgarh,331,245
+21037,Jio,LTower, 854.00 ,Bulbul,59,Goa,504,59
+21038,Airtel,GTower, 615.00 ,Kite,49,Gujarat,482,141
+21039,BSNL,GTower, 739.00 ,Spotted Dove,44,Haryana,242,274
+21040,Vodafone,MTower, 661.00 ,Sparrow,50,Andhra Pradesh,379,113
+21041,Idea,LTower, 758.00 ,Sparrow,75,Arunachal Pradesh,627,137
+21042,BSNL,MTower, 469.00 ,Bulbul,69,Assam,402,71
+21043,Jio,GTower, 729.00 ,Kite,61,Bihar,628,211
+21044,Airtel,LTower, 336.00 ,Bulbul,58,Chhattisgarh,259,106
+21045,Vodafone,MTower, 571.00 ,Sparrow,73,Goa,364,90
+21046,BSNL,GTower, 466.00 ,Spotted Dove,74,Gujarat,505,228
+21047,Idea,LTower, 468.00 ,Kite,53,Haryana,338,300
+21048,Jio,GTower, 793.00 ,Bulbul,40,Himachal Pradesh,189,112
+21049,Jio,LTower, 658.00 ,Sparrow,74,Jharkhand,254,259
+21050,Airtel,MTower, 310.00 ,Spotted Dove,68,Karnataka,839,241
+21051,BSNL,LTower, 498.00 ,Bulbul,38,Kerala,584,231
+21052,Vodafone,GTower, 544.00 ,Kite,31,Madhya Pradesh,665,167
+21053,Idea,GTower, 526.00 ,Sparrow,61,Maharashtra,388,232
+21054,BSNL,MTower, 392.00 ,Spotted Dove,71,Manipur,353,202
+21055,Jio,LTower, 483.00 ,Kite,57,Meghalaya,254,200
+21056,Airtel,MTower, 457.00 ,Bulbul,45,Mizoram,552,207
+21057,Vodafone,GTower, 783.00 ,Sparrow,68,Nagaland,593,59
+21058,BSNL,LTower, 541.00 ,Bulbul,76,Odisha,651,136
+21059,Idea,MTower, 852.00 ,Kite,27,Punjab,727,51
+21060,Jio,GTower, 642.00 ,Spotted Dove,25,Rajasthan,433,294
+21061,Jio,LTower, 791.00 ,Sparrow,35,Sikkim,354,176
+21062,Airtel,GTower, 343.00 ,Sparrow,48,Tamil Nadu,695,128
+21063,BSNL,LTower, 851.00 ,Bulbul,76,Telangana,628,138
+21064,Vodafone,MTower, 813.00 ,Kite,35,Tripura,137,198
+21065,Idea,LTower, 429.00 ,Bulbul,49,Uttarakhand,796,197
+21066,BSNL,GTower, 816.00 ,Sparrow,80,Uttar Pradesh,240,223
+21067,Jio,GTower, 536.00 ,Spotted Dove,43,West Bengal,627,94
+21068,Airtel,MTower, 877.00 ,Kite,69,Andhra Pradesh,217,134
+21069,Vodafone,LTower, 558.00 ,Bulbul,47,Arunachal Pradesh,861,140
+21070,BSNL,MTower, 549.00 ,Sparrow,49,Assam,425,294
+21071,Idea,GTower, 594.00 ,Spotted Dove,57,Bihar,589,289
+21072,Jio,LTower, 753.00 ,Bulbul,31,Chhattisgarh,731,86
+21073,Jio,MTower, 493.00 ,Kite,52,Goa,822,94
+21074,Airtel,GTower, 345.00 ,Sparrow,25,Gujarat,566,256
+21075,BSNL,LTower, 372.00 ,Spotted Dove,56,Haryana,794,175
+21076,Vodafone,GTower, 815.00 ,Kite,56,Himachal Pradesh,745,137
+21077,Idea,LTower, 506.00 ,Bulbul,57,Jharkhand,111,129
+21078,BSNL,MTower, 891.00 ,Sparrow,29,Karnataka,602,167
+21079,Jio,LTower, 678.00 ,Bulbul,45,Kerala,243,197
+21080,Airtel,GTower, 490.00 ,Kite,54,Madhya Pradesh,450,117
+21081,Vodafone,GTower, 739.00 ,Spotted Dove,59,Maharashtra,569,136
+21082,BSNL,MTower, 771.00 ,Sparrow,28,Manipur,900,167
+21083,Idea,LTower, 474.00 ,Sparrow,23,Meghalaya,226,173
+21084,Jio,MTower, 553.00 ,Bulbul,55,Mizoram,595,196
+21085,Jio,GTower, 843.00 ,Kite,43,Nagaland,726,206
+21086,Airtel,LTower, 695.00 ,Bulbul,44,Odisha,508,298
+21087,BSNL,MTower, 693.00 ,Sparrow,56,Punjab,898,154
+21088,Vodafone,GTower, 635.00 ,Spotted Dove,64,Rajasthan,811,213
+21089,Idea,LTower, 897.00 ,Kite,41,Sikkim,358,83
+21090,BSNL,GTower, 343.00 ,Bulbul,62,Tamil Nadu,388,251
+21091,Jio,LTower, 811.00 ,Sparrow,41,Telangana,560,211
+21092,Airtel,MTower, 788.00 ,Spotted Dove,20,Tripura,286,143
+21093,Vodafone,LTower, 685.00 ,Bulbul,69,Uttarakhand,125,66
+21094,BSNL,GTower, 342.00 ,Kite,26,Uttar Pradesh,864,243
+21095,Idea,GTower, 475.00 ,Sparrow,56,West Bengal,807,94
+21096,Jio,MTower, 450.00 ,Spotted Dove,80,Andhra Pradesh,595,202
+21097,Jio,LTower, 328.00 ,Kite,58,Arunachal Pradesh,762,65
+21098,Airtel,MTower, 736.00 ,Bulbul,66,Assam,839,77
+21099,BSNL,GTower, 365.00 ,Sparrow,57,Bihar,309,72
+21100,Vodafone,LTower, 344.00 ,Bulbul,22,Chhattisgarh,888,178
+21101,Idea,MTower, 769.00 ,Kite,52,Goa,723,57
+21102,BSNL,GTower, 657.00 ,Spotted Dove,56,Gujarat,199,186
+21103,Jio,LTower, 538.00 ,Sparrow,69,Haryana,122,231
+21104,Airtel,GTower, 874.00 ,Sparrow,45,Andhra Pradesh,529,273
+21105,Vodafone,LTower, 828.00 ,Bulbul,41,Arunachal Pradesh,686,198
+21106,BSNL,MTower, 685.00 ,Kite,28,Assam,654,75
+21107,Idea,LTower, 569.00 ,Bulbul,45,Bihar,582,144
+21108,Jio,GTower, 785.00 ,Sparrow,21,Chhattisgarh,319,218
+21109,Jio,GTower, 786.00 ,Spotted Dove,43,Goa,345,84
+21110,Airtel,MTower, 470.00 ,Kite,27,Gujarat,472,55
+21111,BSNL,LTower, 841.00 ,Bulbul,65,Haryana,490,231
+21112,Vodafone,MTower, 426.00 ,Sparrow,63,Himachal Pradesh,359,176
+21113,Idea,GTower, 822.00 ,Spotted Dove,76,Jharkhand,700,228
+21114,BSNL,LTower, 385.00 ,Bulbul,32,Karnataka,114,87
+21115,Jio,MTower, 791.00 ,Kite,31,Kerala,847,57
+21116,Airtel,GTower, 562.00 ,Sparrow,53,Madhya Pradesh,323,102
+21117,Vodafone,LTower, 721.00 ,Spotted Dove,64,Maharashtra,586,148
+21118,BSNL,GTower, 720.00 ,Kite,24,Manipur,246,185
+21119,Idea,LTower, 804.00 ,Bulbul,48,Meghalaya,520,174
+21120,Jio,MTower, 719.00 ,Sparrow,36,Mizoram,521,251
+21121,Jio,LTower, 691.00 ,Bulbul,66,Nagaland,386,294
+21122,Airtel,GTower, 815.00 ,Kite,27,Odisha,699,122
+21123,BSNL,GTower, 335.00 ,Spotted Dove,33,Punjab,486,230
+21124,Vodafone,MTower, 557.00 ,Sparrow,76,Rajasthan,121,291
+21125,Idea,LTower, 740.00 ,Sparrow,72,Sikkim,148,157
+21126,BSNL,MTower, 420.00 ,Bulbul,61,Tamil Nadu,768,278
+21127,Jio,GTower, 516.00 ,Kite,72,Telangana,326,195
+21128,Airtel,LTower, 900.00 ,Bulbul,71,Tripura,818,241
+21129,Vodafone,MTower, 882.00 ,Sparrow,23,Uttarakhand,471,242
+21130,BSNL,GTower, 896.00 ,Spotted Dove,73,Uttar Pradesh,233,184
+21131,Idea,LTower, 727.00 ,Kite,43,West Bengal,426,51
+21132,Jio,GTower, 437.00 ,Bulbul,37,Andhra Pradesh,824,232
+21133,Jio,LTower, 403.00 ,Sparrow,53,Arunachal Pradesh,186,255
+21134,Airtel,MTower, 347.00 ,Spotted Dove,58,Assam,401,210
+21135,BSNL,LTower, 335.00 ,Bulbul,52,Bihar,214,243
+21136,Vodafone,GTower, 439.00 ,Kite,43,Chhattisgarh,198,179
+21137,Idea,GTower, 832.00 ,Sparrow,20,Goa,289,205
+21138,BSNL,MTower, 669.00 ,Spotted Dove,65,Gujarat,344,194
+21139,Jio,LTower, 755.00 ,Kite,49,Haryana,691,94
+21140,Airtel,MTower, 426.00 ,Bulbul,68,Himachal Pradesh,787,198
+21141,Vodafone,GTower, 663.00 ,Sparrow,21,Jharkhand,124,124
+21142,BSNL,LTower, 448.00 ,Bulbul,64,Karnataka,293,163
+21143,Idea,MTower, 489.00 ,Kite,36,Kerala,826,295
+21144,Jio,GTower, 579.00 ,Spotted Dove,46,Madhya Pradesh,262,199
+21145,Jio,LTower, 813.00 ,Sparrow,75,Maharashtra,473,179
+21146,Airtel,GTower, 468.00 ,Sparrow,47,Manipur,345,208
+21147,BSNL,LTower, 512.00 ,Bulbul,30,Meghalaya,617,139
+21148,Vodafone,MTower, 510.00 ,Kite,52,Mizoram,331,174
+21149,Idea,LTower, 516.00 ,Bulbul,55,Nagaland,705,107
+21150,BSNL,GTower, 585.00 ,Sparrow,35,Odisha,737,97
+21151,Jio,GTower, 878.00 ,Spotted Dove,70,Punjab,304,203
+21152,Airtel,MTower, 465.00 ,Kite,57,Rajasthan,718,276
+21153,Vodafone,LTower, 570.00 ,Bulbul,59,Sikkim,822,104
+21154,BSNL,MTower, 780.00 ,Sparrow,60,Tamil Nadu,511,168
+21155,Idea,GTower, 613.00 ,Spotted Dove,55,Telangana,208,294
+21156,Jio,LTower, 684.00 ,Bulbul,41,Tripura,261,106
+21157,Jio,MTower, 800.00 ,Kite,66,Uttarakhand,672,291
+21158,Airtel,GTower, 497.00 ,Sparrow,23,Uttar Pradesh,676,110
+21159,BSNL,LTower, 415.00 ,Spotted Dove,80,West Bengal,695,284
+21160,Vodafone,GTower, 611.00 ,Kite,53,Andhra Pradesh,222,210
+21161,Idea,LTower, 792.00 ,Bulbul,26,Arunachal Pradesh,855,282
+21162,BSNL,MTower, 734.00 ,Sparrow,30,Assam,660,234
+21163,Jio,LTower, 346.00 ,Bulbul,58,Bihar,363,68
+21164,Airtel,GTower, 753.00 ,Kite,26,Chhattisgarh,651,206
+21165,Vodafone,GTower, 342.00 ,Spotted Dove,46,Goa,402,85
+21166,BSNL,MTower, 304.00 ,Sparrow,38,Gujarat,308,81
+21167,Idea,LTower, 543.00 ,Sparrow,72,Haryana,135,274
+21168,Jio,MTower, 895.00 ,Bulbul,71,Andhra Pradesh,487,240
+21169,Jio,GTower, 539.00 ,Kite,40,Arunachal Pradesh,426,231
+21170,Airtel,LTower, 599.00 ,Bulbul,57,Assam,438,185
+21171,BSNL,MTower, 532.00 ,Sparrow,71,Bihar,438,87
+21172,Vodafone,GTower, 626.00 ,Spotted Dove,26,Chhattisgarh,584,141
+21173,Idea,LTower, 680.00 ,Kite,60,Goa,364,91
+21174,BSNL,GTower, 358.00 ,Bulbul,28,Gujarat,128,148
+21175,Jio,LTower, 834.00 ,Sparrow,74,Haryana,749,114
+21176,Airtel,MTower, 875.00 ,Spotted Dove,24,Himachal Pradesh,376,287
+21177,Vodafone,LTower, 707.00 ,Bulbul,25,Jharkhand,140,221
+21178,BSNL,GTower, 680.00 ,Kite,27,Karnataka,176,59
+21179,Idea,GTower, 415.00 ,Sparrow,37,Kerala,546,119
+21180,Jio,MTower, 847.00 ,Spotted Dove,53,Madhya Pradesh,845,58
+21181,Jio,LTower, 882.00 ,Kite,20,Maharashtra,484,250
+21182,Airtel,MTower, 567.00 ,Bulbul,41,Manipur,205,231
+21183,BSNL,GTower, 574.00 ,Sparrow,34,Meghalaya,550,226
+21184,Vodafone,LTower, 601.00 ,Bulbul,60,Mizoram,188,126
+21185,Idea,MTower, 742.00 ,Kite,52,Nagaland,739,193
+21186,BSNL,GTower, 661.00 ,Spotted Dove,59,Odisha,842,220
+21187,Jio,LTower, 860.00 ,Sparrow,57,Punjab,317,225
+21188,Airtel,GTower, 348.00 ,Sparrow,57,Rajasthan,740,133
+21189,Vodafone,LTower, 361.00 ,Bulbul,26,Sikkim,793,98
+21190,BSNL,MTower, 338.00 ,Kite,52,Tamil Nadu,838,250
+21191,Idea,LTower, 367.00 ,Bulbul,28,Telangana,408,80
+21192,Jio,GTower, 394.00 ,Sparrow,69,Tripura,230,85
+21193,Jio,GTower, 435.00 ,Spotted Dove,22,Uttarakhand,209,63
+21194,Airtel,MTower, 482.00 ,Kite,37,Uttar Pradesh,228,53
+21195,BSNL,LTower, 876.00 ,Bulbul,25,West Bengal,849,113
+21196,Vodafone,MTower, 677.00 ,Sparrow,37,Andhra Pradesh,570,258
+21197,Idea,GTower, 879.00 ,Spotted Dove,59,Arunachal Pradesh,414,95
+21198,BSNL,LTower, 403.00 ,Bulbul,39,Assam,619,189
+21199,Jio,MTower, 593.00 ,Kite,63,Bihar,561,102
+21200,Airtel,GTower, 676.00 ,Sparrow,50,Chhattisgarh,823,115
+21201,Vodafone,LTower, 693.00 ,Spotted Dove,27,Goa,224,155
+21202,BSNL,GTower, 581.00 ,Kite,71,Gujarat,511,150
+21203,Idea,LTower, 704.00 ,Bulbul,69,Haryana,123,105
+21204,Jio,MTower, 643.00 ,Sparrow,71,Himachal Pradesh,408,57
+21205,Jio,LTower, 729.00 ,Bulbul,29,Jharkhand,687,156
+21206,Airtel,GTower, 824.00 ,Kite,32,Karnataka,428,172
+21207,BSNL,GTower, 368.00 ,Spotted Dove,70,Kerala,169,263
+21208,Vodafone,MTower, 795.00 ,Sparrow,60,Madhya Pradesh,841,203
+21209,Idea,LTower, 790.00 ,Sparrow,36,Maharashtra,425,285
+21210,BSNL,MTower, 700.00 ,Bulbul,80,Manipur,411,66
+21211,Jio,GTower, 686.00 ,Kite,49,Meghalaya,283,211
+21212,Airtel,LTower, 606.00 ,Bulbul,49,Mizoram,687,259
+21213,Vodafone,MTower, 334.00 ,Sparrow,65,Nagaland,887,295
+21214,BSNL,GTower, 587.00 ,Spotted Dove,24,Odisha,576,123
+21215,Idea,LTower, 427.00 ,Kite,50,Punjab,756,209
+21216,Jio,GTower, 683.00 ,Bulbul,35,Rajasthan,533,168
+21217,Jio,LTower, 653.00 ,Sparrow,40,Sikkim,291,227
+21218,Airtel,MTower, 355.00 ,Spotted Dove,36,Tamil Nadu,889,207
+21219,BSNL,LTower, 852.00 ,Bulbul,70,Telangana,600,227
+21220,Vodafone,GTower, 817.00 ,Kite,31,Tripura,531,124
+21221,Idea,GTower, 320.00 ,Sparrow,24,Uttarakhand,847,57
+21222,BSNL,MTower, 840.00 ,Spotted Dove,60,Uttar Pradesh,711,192
+21223,Jio,LTower, 690.00 ,Kite,46,West Bengal,734,106
+21224,Airtel,MTower, 742.00 ,Bulbul,55,Andhra Pradesh,504,114
+21225,Vodafone,GTower, 814.00 ,Sparrow,31,Arunachal Pradesh,425,105
+21226,BSNL,LTower, 542.00 ,Bulbul,75,Assam,682,175
+21227,Idea,MTower, 398.00 ,Kite,67,Bihar,193,290
+21228,Jio,GTower, 886.00 ,Spotted Dove,47,Chhattisgarh,608,168
+21229,Jio,LTower, 441.00 ,Sparrow,45,Goa,370,100
+21230,Airtel,GTower, 518.00 ,Sparrow,43,Gujarat,152,88
+21231,BSNL,LTower, 413.00 ,Bulbul,61,Haryana,439,228
+21232,Vodafone,MTower, 752.00 ,Kite,48,Andhra Pradesh,724,104
+21233,Idea,LTower, 357.00 ,Bulbul,32,Arunachal Pradesh,712,53
+21234,BSNL,GTower, 514.00 ,Sparrow,78,Assam,643,145
+21235,Jio,GTower, 776.00 ,Spotted Dove,40,Bihar,516,50
+21236,Airtel,MTower, 567.00 ,Kite,25,Chhattisgarh,816,239
+21237,Vodafone,LTower, 392.00 ,Bulbul,38,Goa,338,89
+21238,BSNL,MTower, 503.00 ,Sparrow,56,Gujarat,253,300
+21239,Idea,GTower, 488.00 ,Spotted Dove,49,Haryana,894,50
+21240,Jio,LTower, 744.00 ,Bulbul,35,Himachal Pradesh,839,220
+21241,Jio,MTower, 605.00 ,Kite,36,Jharkhand,192,190
+21242,Airtel,GTower, 623.00 ,Sparrow,41,Karnataka,459,211
+21243,BSNL,LTower, 549.00 ,Spotted Dove,42,Kerala,741,273
+21244,Vodafone,GTower, 675.00 ,Kite,58,Madhya Pradesh,493,103
+21245,Idea,LTower, 508.00 ,Bulbul,67,Maharashtra,330,73
+21246,BSNL,MTower, 374.00 ,Sparrow,68,Manipur,383,106
+21247,Jio,LTower, 616.00 ,Bulbul,20,Meghalaya,865,299
+21248,Airtel,GTower, 358.00 ,Kite,75,Mizoram,115,144
+21249,Vodafone,GTower, 554.00 ,Spotted Dove,29,Nagaland,157,64
+21250,BSNL,MTower, 639.00 ,Sparrow,39,Odisha,441,186
+21251,Idea,LTower, 319.00 ,Sparrow,80,Punjab,883,111
+21252,Jio,MTower, 652.00 ,Bulbul,56,Rajasthan,852,208
+21253,Jio,GTower, 520.00 ,Kite,40,Sikkim,351,103
+21254,Airtel,LTower, 702.00 ,Bulbul,31,Tamil Nadu,122,84
+21255,BSNL,MTower, 449.00 ,Sparrow,68,Telangana,532,291
+21256,Vodafone,GTower, 435.00 ,Spotted Dove,37,Tripura,336,280
+21257,Idea,LTower, 827.00 ,Kite,30,Uttarakhand,537,283
+21258,BSNL,GTower, 858.00 ,Bulbul,57,Uttar Pradesh,562,265
+21259,Jio,LTower, 407.00 ,Sparrow,38,West Bengal,361,287
+21260,Airtel,MTower, 348.00 ,Spotted Dove,78,Andhra Pradesh,185,72
+21261,Vodafone,LTower, 809.00 ,Bulbul,31,Arunachal Pradesh,611,188
+21262,BSNL,GTower, 389.00 ,Kite,80,Assam,700,119
+21263,Idea,GTower, 690.00 ,Sparrow,61,Bihar,872,72
+21264,Jio,MTower, 638.00 ,Spotted Dove,30,Chhattisgarh,351,90
+21265,Jio,LTower, 680.00 ,Kite,78,Goa,775,67
+21266,Airtel,MTower, 696.00 ,Bulbul,64,Gujarat,384,220
+21267,BSNL,GTower, 315.00 ,Sparrow,44,Haryana,444,101
+21268,Vodafone,LTower, 841.00 ,Bulbul,68,Himachal Pradesh,122,279
+21269,Idea,MTower, 814.00 ,Kite,30,Jharkhand,628,284
+21270,BSNL,GTower, 593.00 ,Spotted Dove,67,Karnataka,884,103
+21271,Jio,LTower, 754.00 ,Sparrow,52,Kerala,211,145
+21272,Airtel,GTower, 549.00 ,Sparrow,24,Madhya Pradesh,687,71
+21273,Vodafone,LTower, 490.00 ,Bulbul,32,Maharashtra,656,269
+21274,BSNL,MTower, 526.00 ,Kite,61,Manipur,695,297
+21275,Idea,LTower, 793.00 ,Bulbul,46,Meghalaya,831,249
+21276,Jio,GTower, 676.00 ,Sparrow,48,Mizoram,786,169
+21277,Jio,GTower, 322.00 ,Spotted Dove,45,Nagaland,378,81
+21278,Airtel,MTower, 729.00 ,Kite,71,Odisha,812,113
+21279,BSNL,LTower, 487.00 ,Bulbul,48,Punjab,806,274
+21280,Vodafone,MTower, 605.00 ,Sparrow,32,Rajasthan,780,260
+21281,Idea,GTower, 818.00 ,Spotted Dove,66,Sikkim,831,282
+21282,BSNL,LTower, 845.00 ,Bulbul,66,Tamil Nadu,491,98
+21283,Jio,MTower, 833.00 ,Kite,40,Telangana,784,79
+21284,Airtel,GTower, 668.00 ,Sparrow,25,Tripura,635,172
+21285,Vodafone,LTower, 663.00 ,Spotted Dove,39,Uttarakhand,326,199
+21286,BSNL,GTower, 574.00 ,Kite,72,Uttar Pradesh,540,91
+21287,Idea,LTower, 731.00 ,Bulbul,47,West Bengal,373,141
+21288,Jio,MTower, 826.00 ,Sparrow,66,Andhra Pradesh,571,76
+21289,Jio,LTower, 427.00 ,Bulbul,68,Arunachal Pradesh,434,87
+21290,Airtel,GTower, 533.00 ,Kite,43,Assam,533,181
+21291,BSNL,GTower, 557.00 ,Spotted Dove,61,Bihar,316,201
+21292,Vodafone,MTower, 684.00 ,Sparrow,40,Chhattisgarh,448,283
+21293,Idea,LTower, 441.00 ,Sparrow,65,Goa,580,182
+21294,BSNL,MTower, 311.00 ,Bulbul,22,Gujarat,664,189
+21295,Jio,GTower, 628.00 ,Kite,25,Haryana,655,222
+21296,Airtel,LTower, 669.00 ,Bulbul,35,Andhra Pradesh,463,282
+21297,Vodafone,MTower, 722.00 ,Sparrow,45,Arunachal Pradesh,279,182
+21298,BSNL,GTower, 423.00 ,Spotted Dove,75,Assam,715,55
+21299,Idea,LTower, 853.00 ,Kite,46,Bihar,439,280
+21300,Jio,GTower, 367.00 ,Bulbul,73,Chhattisgarh,208,220
+21301,Jio,LTower, 720.00 ,Sparrow,70,Goa,714,166
+21302,Airtel,MTower, 508.00 ,Spotted Dove,68,Gujarat,703,84
+21303,BSNL,LTower, 596.00 ,Bulbul,68,Haryana,510,134
+21304,Vodafone,GTower, 509.00 ,Kite,65,Himachal Pradesh,262,255
+21305,Idea,GTower, 850.00 ,Sparrow,68,Jharkhand,243,269
+21306,BSNL,MTower, 526.00 ,Spotted Dove,42,Karnataka,873,229
+21307,Jio,LTower, 572.00 ,Kite,33,Kerala,775,194
+21308,Airtel,MTower, 734.00 ,Bulbul,80,Madhya Pradesh,316,107
+21309,Vodafone,GTower, 376.00 ,Sparrow,59,Maharashtra,845,243
+21310,BSNL,LTower, 712.00 ,Bulbul,49,Manipur,867,122
+21311,Idea,MTower, 683.00 ,Kite,21,Meghalaya,845,102
+21312,Jio,GTower, 632.00 ,Spotted Dove,31,Mizoram,156,270
+21313,Jio,LTower, 337.00 ,Sparrow,32,Nagaland,366,233
+21314,Airtel,GTower, 569.00 ,Sparrow,73,Odisha,241,114
+21315,BSNL,LTower, 779.00 ,Bulbul,80,Punjab,717,97
+21316,Vodafone,MTower, 740.00 ,Kite,49,Rajasthan,456,142
+21317,Idea,LTower, 582.00 ,Bulbul,65,Sikkim,755,97
+21318,BSNL,GTower, 372.00 ,Sparrow,61,Tamil Nadu,874,240
+21319,Jio,GTower, 757.00 ,Spotted Dove,68,Telangana,222,184
+21320,Airtel,MTower, 318.00 ,Kite,49,Tripura,559,272
+21321,Vodafone,LTower, 347.00 ,Bulbul,27,Uttarakhand,797,185
+21322,BSNL,MTower, 537.00 ,Sparrow,27,Uttar Pradesh,151,191
+21323,Idea,GTower, 474.00 ,Spotted Dove,50,West Bengal,184,148
+21324,Jio,LTower, 745.00 ,Bulbul,23,Andhra Pradesh,334,75
+21325,Jio,MTower, 321.00 ,Kite,20,Arunachal Pradesh,598,299
+21326,Airtel,GTower, 894.00 ,Sparrow,21,Assam,739,77
+21327,BSNL,LTower, 536.00 ,Spotted Dove,52,Bihar,775,180
+21328,Vodafone,GTower, 556.00 ,Kite,43,Chhattisgarh,556,135
+21329,Idea,LTower, 692.00 ,Bulbul,29,Goa,737,163
+21330,BSNL,MTower, 387.00 ,Sparrow,28,Gujarat,712,122
+21331,Jio,LTower, 434.00 ,Bulbul,73,Haryana,583,203
+21332,Airtel,GTower, 345.00 ,Kite,70,Himachal Pradesh,541,110
+21333,Vodafone,GTower, 851.00 ,Spotted Dove,27,Jharkhand,393,233
+21334,BSNL,MTower, 355.00 ,Sparrow,25,Karnataka,589,73
+21335,Idea,LTower, 414.00 ,Sparrow,50,Kerala,102,209
+21336,Jio,MTower, 363.00 ,Bulbul,29,Madhya Pradesh,512,259
+21337,Jio,GTower, 334.00 ,Kite,77,Maharashtra,646,111
+21338,Airtel,LTower, 397.00 ,Bulbul,41,Manipur,487,95
+21339,BSNL,MTower, 802.00 ,Sparrow,40,Meghalaya,642,121
+21340,Vodafone,GTower, 704.00 ,Spotted Dove,51,Mizoram,296,245
+21341,Idea,LTower, 394.00 ,Kite,80,Nagaland,310,239
+21342,BSNL,GTower, 569.00 ,Bulbul,65,Odisha,764,214
+21343,Jio,LTower, 518.00 ,Sparrow,57,Punjab,599,168
+21344,Airtel,MTower, 856.00 ,Spotted Dove,32,Rajasthan,388,114
+21345,Vodafone,LTower, 354.00 ,Bulbul,20,Sikkim,715,104
+21346,BSNL,GTower, 500.00 ,Kite,73,Tamil Nadu,438,280
+21347,Idea,GTower, 302.00 ,Sparrow,63,Telangana,219,293
+21348,Jio,MTower, 668.00 ,Spotted Dove,40,Tripura,144,262
+21349,Jio,LTower, 526.00 ,Kite,56,Uttarakhand,844,194
+21350,Airtel,MTower, 786.00 ,Bulbul,67,Uttar Pradesh,736,241
+21351,BSNL,GTower, 635.00 ,Sparrow,48,West Bengal,246,229
+21352,Vodafone,LTower, 347.00 ,Bulbul,58,Andhra Pradesh,421,102
+21353,Idea,MTower, 698.00 ,Kite,62,Arunachal Pradesh,255,67
+21354,BSNL,GTower, 515.00 ,Spotted Dove,71,Assam,863,226
+21355,Jio,LTower, 656.00 ,Sparrow,40,Bihar,577,197
+21356,Airtel,GTower, 635.00 ,Sparrow,26,Chhattisgarh,335,167
+21357,Vodafone,LTower, 421.00 ,Bulbul,20,Goa,150,241
+21358,BSNL,MTower, 796.00 ,Kite,29,Gujarat,767,128
+21359,Idea,LTower, 688.00 ,Bulbul,49,Haryana,157,227
+21360,Jio,GTower, 873.00 ,Sparrow,47,Andhra Pradesh,326,94
+21361,Jio,GTower, 759.00 ,Spotted Dove,56,Arunachal Pradesh,227,151
+21362,Airtel,MTower, 490.00 ,Kite,71,Assam,701,285
+21363,BSNL,LTower, 525.00 ,Bulbul,33,Bihar,823,171
+21364,Vodafone,MTower, 353.00 ,Sparrow,39,Chhattisgarh,292,93
+21365,Idea,GTower, 361.00 ,Spotted Dove,74,Goa,479,103
+21366,BSNL,LTower, 398.00 ,Bulbul,30,Gujarat,133,224
+21367,Jio,MTower, 582.00 ,Kite,77,Haryana,475,137
+21368,Airtel,GTower, 592.00 ,Sparrow,31,Himachal Pradesh,880,242
+21369,Vodafone,LTower, 777.00 ,Spotted Dove,75,Jharkhand,660,205
+21370,BSNL,GTower, 731.00 ,Kite,25,Karnataka,335,178
+21371,Idea,LTower, 663.00 ,Bulbul,65,Kerala,660,86
+21372,Jio,MTower, 858.00 ,Sparrow,68,Madhya Pradesh,662,208
+21373,Jio,LTower, 639.00 ,Bulbul,48,Maharashtra,578,113
+21374,Airtel,GTower, 715.00 ,Kite,30,Manipur,160,275
+21375,BSNL,GTower, 489.00 ,Spotted Dove,39,Meghalaya,725,300
+21376,Vodafone,MTower, 396.00 ,Sparrow,67,Mizoram,596,159
+21377,Idea,LTower, 509.00 ,Sparrow,36,Nagaland,693,171
+21378,BSNL,MTower, 617.00 ,Bulbul,22,Odisha,317,264
+21379,Jio,GTower, 482.00 ,Kite,27,Punjab,582,256
+21380,Airtel,LTower, 744.00 ,Bulbul,76,Rajasthan,661,123
+21381,Vodafone,MTower, 492.00 ,Sparrow,25,Sikkim,632,171
+21382,BSNL,GTower, 454.00 ,Spotted Dove,27,Tamil Nadu,463,72
+21383,Idea,LTower, 671.00 ,Kite,58,Telangana,508,265
+21384,Jio,GTower, 614.00 ,Bulbul,72,Tripura,608,269
+21385,Jio,LTower, 364.00 ,Sparrow,76,Uttarakhand,316,159
+21386,Airtel,MTower, 522.00 ,Spotted Dove,54,Uttar Pradesh,356,235
+21387,BSNL,LTower, 468.00 ,Bulbul,74,West Bengal,473,159
+21388,Vodafone,GTower, 733.00 ,Kite,43,Andhra Pradesh,250,224
+21389,Idea,GTower, 687.00 ,Sparrow,76,Arunachal Pradesh,228,121
+21390,BSNL,MTower, 688.00 ,Spotted Dove,41,Assam,293,54
+21391,Jio,LTower, 887.00 ,Kite,24,Bihar,888,124
+21392,Airtel,MTower, 332.00 ,Bulbul,72,Chhattisgarh,806,75
+21393,Vodafone,GTower, 533.00 ,Sparrow,41,Goa,677,291
+21394,BSNL,LTower, 416.00 ,Bulbul,23,Gujarat,493,263
+21395,Idea,MTower, 319.00 ,Kite,77,Haryana,141,212
+21396,Jio,GTower, 897.00 ,Spotted Dove,30,Himachal Pradesh,232,133
+21397,Jio,LTower, 771.00 ,Sparrow,72,Jharkhand,437,72
+21398,Airtel,GTower, 802.00 ,Sparrow,59,Karnataka,546,117
+21399,BSNL,LTower, 304.00 ,Bulbul,38,Kerala,412,116
+21400,Vodafone,MTower, 795.00 ,Kite,57,Madhya Pradesh,323,253
+21401,Idea,LTower, 476.00 ,Bulbul,79,Maharashtra,300,269
+21402,BSNL,GTower, 855.00 ,Sparrow,60,Manipur,606,140
+21403,Jio,GTower, 617.00 ,Spotted Dove,57,Meghalaya,832,136
+21404,Airtel,MTower, 749.00 ,Kite,37,Mizoram,260,85
+21405,Vodafone,LTower, 317.00 ,Bulbul,37,Nagaland,198,151
+21406,BSNL,MTower, 377.00 ,Sparrow,36,Odisha,196,87
+21407,Idea,GTower, 469.00 ,Spotted Dove,42,Punjab,655,287
+21408,Jio,LTower, 555.00 ,Bulbul,29,Rajasthan,180,143
+21409,Jio,MTower, 585.00 ,Kite,48,Sikkim,546,109
+21410,Airtel,GTower, 746.00 ,Sparrow,54,Tamil Nadu,360,271
+21411,BSNL,LTower, 781.00 ,Spotted Dove,53,Telangana,106,62
+21412,Vodafone,GTower, 607.00 ,Kite,52,Tripura,503,218
+21413,Idea,LTower, 581.00 ,Bulbul,80,Uttarakhand,620,118
+21414,BSNL,MTower, 812.00 ,Sparrow,79,Uttar Pradesh,308,101
+21415,Jio,LTower, 538.00 ,Bulbul,60,West Bengal,798,50
+21416,Airtel,GTower, 735.00 ,Kite,41,Andhra Pradesh,112,230
+21417,Vodafone,GTower, 588.00 ,Spotted Dove,72,Arunachal Pradesh,112,116
+21418,BSNL,MTower, 594.00 ,Sparrow,57,Assam,865,243
+21419,Idea,LTower, 460.00 ,Sparrow,56,Bihar,742,233
+21420,Jio,MTower, 863.00 ,Bulbul,69,Chhattisgarh,296,217
+21421,Jio,GTower, 740.00 ,Kite,21,Goa,821,75
+21422,Airtel,LTower, 499.00 ,Bulbul,71,Gujarat,200,211
+21423,BSNL,MTower, 304.00 ,Sparrow,25,Haryana,601,82
+21424,Vodafone,GTower, 314.00 ,Spotted Dove,69,Andhra Pradesh,530,180
+21425,Idea,LTower, 476.00 ,Kite,69,Arunachal Pradesh,210,180
+21426,BSNL,GTower, 635.00 ,Bulbul,25,Assam,564,213
+21427,Jio,LTower, 724.00 ,Sparrow,73,Bihar,519,163
+21428,Airtel,MTower, 885.00 ,Spotted Dove,46,Chhattisgarh,141,202
+21429,Vodafone,LTower, 389.00 ,Bulbul,78,Goa,543,175
+21430,BSNL,GTower, 796.00 ,Kite,65,Gujarat,386,125
+21431,Idea,GTower, 693.00 ,Sparrow,77,Haryana,660,286
+21432,Jio,MTower, 558.00 ,Spotted Dove,22,Himachal Pradesh,353,99
+21433,Jio,LTower, 611.00 ,Kite,52,Jharkhand,455,294
+21434,Airtel,MTower, 587.00 ,Bulbul,78,Karnataka,127,217
+21435,BSNL,GTower, 697.00 ,Sparrow,36,Kerala,411,194
+21436,Vodafone,LTower, 464.00 ,Bulbul,46,Madhya Pradesh,299,221
+21437,Idea,MTower, 318.00 ,Kite,46,Maharashtra,208,285
+21438,BSNL,GTower, 877.00 ,Spotted Dove,20,Manipur,688,154
+21439,Jio,LTower, 421.00 ,Sparrow,47,Meghalaya,380,156
+21440,Airtel,GTower, 444.00 ,Sparrow,78,Mizoram,311,94
+21441,Vodafone,LTower, 647.00 ,Bulbul,58,Nagaland,858,214
+21442,BSNL,MTower, 404.00 ,Kite,32,Odisha,270,229
+21443,Idea,LTower, 845.00 ,Bulbul,54,Punjab,605,157
+21444,Jio,GTower, 577.00 ,Sparrow,45,Rajasthan,322,134
+21445,Jio,GTower, 852.00 ,Spotted Dove,49,Sikkim,106,212
+21446,Airtel,MTower, 439.00 ,Kite,64,Tamil Nadu,519,290
+21447,BSNL,LTower, 358.00 ,Bulbul,23,Telangana,450,186
+21448,Vodafone,MTower, 475.00 ,Sparrow,72,Tripura,611,135
+21449,Idea,GTower, 581.00 ,Spotted Dove,62,Uttarakhand,327,279
+21450,BSNL,LTower, 704.00 ,Bulbul,65,Uttar Pradesh,219,101
+21451,Jio,MTower, 619.00 ,Kite,54,West Bengal,144,207
+21452,Airtel,GTower, 509.00 ,Sparrow,52,Andhra Pradesh,508,297
+21453,Vodafone,LTower, 851.00 ,Spotted Dove,49,Arunachal Pradesh,886,194
+21454,BSNL,GTower, 718.00 ,Kite,79,Assam,210,148
+21455,Idea,LTower, 445.00 ,Bulbul,35,Bihar,501,206
+21456,Jio,MTower, 791.00 ,Sparrow,70,Chhattisgarh,489,201
+21457,Jio,LTower, 657.00 ,Bulbul,21,Goa,490,114
+21458,Airtel,GTower, 760.00 ,Kite,55,Gujarat,293,254
+21459,BSNL,GTower, 513.00 ,Spotted Dove,41,Haryana,456,109
+21460,Vodafone,MTower, 486.00 ,Sparrow,48,Himachal Pradesh,639,260
+21461,Idea,LTower, 495.00 ,Sparrow,21,Jharkhand,216,172
+21462,BSNL,MTower, 605.00 ,Bulbul,33,Karnataka,616,296
+21463,Jio,GTower, 694.00 ,Kite,65,Kerala,657,176
+21464,Airtel,LTower, 460.00 ,Bulbul,37,Madhya Pradesh,809,167
+21465,Vodafone,MTower, 332.00 ,Sparrow,35,Maharashtra,395,178
+21466,BSNL,GTower, 886.00 ,Spotted Dove,58,Manipur,646,145
+21467,Idea,LTower, 456.00 ,Kite,48,Meghalaya,597,89
+21468,Jio,GTower, 523.00 ,Bulbul,52,Mizoram,299,50
+21469,Jio,LTower, 459.00 ,Sparrow,25,Nagaland,251,137
+21470,Airtel,MTower, 434.00 ,Spotted Dove,21,Odisha,725,76
+21471,BSNL,LTower, 843.00 ,Bulbul,51,Punjab,842,58
+21472,Vodafone,GTower, 422.00 ,Kite,66,Rajasthan,567,134
+21473,Idea,GTower, 454.00 ,Sparrow,32,Sikkim,820,275
+21474,BSNL,MTower, 464.00 ,Spotted Dove,56,Tamil Nadu,767,197
+21475,Jio,LTower, 552.00 ,Kite,39,Telangana,217,252
+21476,Airtel,MTower, 667.00 ,Bulbul,56,Tripura,798,197
+21477,Vodafone,GTower, 457.00 ,Sparrow,69,Uttarakhand,466,81
+21478,BSNL,LTower, 835.00 ,Bulbul,56,Uttar Pradesh,557,191
+21479,Idea,MTower, 474.00 ,Kite,43,West Bengal,755,298
+21480,Jio,GTower, 393.00 ,Spotted Dove,44,Andhra Pradesh,724,228
+21481,Jio,LTower, 480.00 ,Sparrow,49,Arunachal Pradesh,209,202
+21482,Airtel,GTower, 545.00 ,Sparrow,79,Assam,731,180
+21483,BSNL,LTower, 794.00 ,Bulbul,62,Bihar,249,154
+21484,Vodafone,MTower, 707.00 ,Kite,74,Chhattisgarh,123,272
+21485,Idea,LTower, 775.00 ,Bulbul,69,Goa,190,86
+21486,BSNL,GTower, 468.00 ,Sparrow,42,Gujarat,139,128
+21487,Jio,GTower, 489.00 ,Spotted Dove,70,Haryana,847,177
+21488,Airtel,MTower, 884.00 ,Kite,21,Andhra Pradesh,623,181
+21489,Vodafone,LTower, 818.00 ,Bulbul,42,Arunachal Pradesh,217,155
+21490,BSNL,MTower, 353.00 ,Sparrow,21,Assam,538,245
+21491,Idea,GTower, 681.00 ,Spotted Dove,50,Bihar,497,291
+21492,Jio,LTower, 830.00 ,Bulbul,22,Chhattisgarh,472,189
+21493,Jio,MTower, 631.00 ,Kite,53,Goa,403,151
+21494,Airtel,GTower, 876.00 ,Sparrow,76,Gujarat,165,236
+21495,BSNL,LTower, 704.00 ,Spotted Dove,59,Haryana,478,114
+21496,Vodafone,GTower, 329.00 ,Kite,59,Himachal Pradesh,820,101
+21497,Idea,LTower, 705.00 ,Bulbul,40,Jharkhand,402,296
+21498,BSNL,MTower, 499.00 ,Sparrow,40,Karnataka,413,281
+21499,Jio,LTower, 402.00 ,Bulbul,68,Kerala,694,55
+21500,Airtel,GTower, 788.00 ,Kite,39,Madhya Pradesh,660,143
+21501,Vodafone,GTower, 626.00 ,Spotted Dove,67,Maharashtra,367,153
+21502,BSNL,MTower, 839.00 ,Sparrow,68,Manipur,523,174
+21503,Idea,LTower, 678.00 ,Sparrow,77,Meghalaya,440,74
+21504,Jio,MTower, 563.00 ,Bulbul,71,Mizoram,193,171
+21505,Jio,GTower, 652.00 ,Kite,44,Nagaland,675,170
+21506,Airtel,LTower, 563.00 ,Bulbul,41,Odisha,262,236
+21507,BSNL,MTower, 387.00 ,Sparrow,39,Punjab,404,238
+21508,Vodafone,GTower, 551.00 ,Spotted Dove,30,Rajasthan,153,229
+21509,Idea,LTower, 662.00 ,Kite,53,Sikkim,765,64
+21510,BSNL,GTower, 342.00 ,Bulbul,47,Tamil Nadu,453,70
+21511,Jio,LTower, 792.00 ,Sparrow,55,Telangana,625,51
+21512,Airtel,MTower, 411.00 ,Spotted Dove,44,Tripura,421,192
+21513,Vodafone,LTower, 340.00 ,Bulbul,67,Uttarakhand,392,119
+21514,BSNL,GTower, 708.00 ,Kite,58,Uttar Pradesh,243,175
+21515,Idea,GTower, 859.00 ,Sparrow,49,West Bengal,852,159
+21516,Jio,MTower, 780.00 ,Spotted Dove,67,Andhra Pradesh,497,121
+21517,Jio,LTower, 360.00 ,Kite,56,Arunachal Pradesh,638,80
+21518,Airtel,MTower, 678.00 ,Bulbul,31,Assam,245,142
+21519,BSNL,GTower, 433.00 ,Sparrow,29,Bihar,783,155
+21520,Vodafone,LTower, 454.00 ,Bulbul,52,Chhattisgarh,200,227
+21521,Idea,MTower, 589.00 ,Kite,46,Goa,213,89
+21522,BSNL,GTower, 447.00 ,Spotted Dove,74,Gujarat,752,81
+21523,Jio,LTower, 552.00 ,Sparrow,33,Haryana,857,116
+21524,Airtel,GTower, 351.00 ,Sparrow,20,Himachal Pradesh,797,115
+21525,Vodafone,LTower, 827.00 ,Bulbul,38,Jharkhand,554,168
+21526,BSNL,MTower, 344.00 ,Kite,26,Karnataka,291,289
+21527,Idea,LTower, 586.00 ,Bulbul,67,Kerala,187,104
+21528,Jio,GTower, 412.00 ,Sparrow,25,Madhya Pradesh,390,131
+21529,Jio,GTower, 316.00 ,Spotted Dove,65,Maharashtra,593,257
+21530,Airtel,MTower, 644.00 ,Kite,62,Manipur,111,250
+21531,BSNL,LTower, 358.00 ,Bulbul,29,Meghalaya,361,163
+21532,Vodafone,MTower, 380.00 ,Sparrow,52,Mizoram,800,233
+21533,Idea,GTower, 494.00 ,Spotted Dove,72,Nagaland,194,219
+21534,BSNL,LTower, 792.00 ,Bulbul,37,Odisha,666,137
+21535,Jio,MTower, 893.00 ,Kite,58,Punjab,260,226
+21536,Airtel,GTower, 850.00 ,Sparrow,32,Rajasthan,107,167
+21537,Vodafone,LTower, 825.00 ,Spotted Dove,74,Sikkim,696,203
+21538,BSNL,GTower, 689.00 ,Kite,40,Tamil Nadu,695,93
+21539,Idea,LTower, 595.00 ,Bulbul,34,Telangana,526,273
+21540,Jio,MTower, 891.00 ,Sparrow,47,Tripura,186,214
+21541,Jio,LTower, 432.00 ,Bulbul,33,Uttarakhand,455,170
+21542,Airtel,GTower, 361.00 ,Kite,37,Uttar Pradesh,309,218
+21543,BSNL,GTower, 307.00 ,Spotted Dove,25,West Bengal,327,185
+21544,Vodafone,MTower, 727.00 ,Sparrow,68,Andhra Pradesh,175,213
+21545,Idea,LTower, 727.00 ,Sparrow,53,Arunachal Pradesh,171,225
+21546,BSNL,MTower, 556.00 ,Bulbul,55,Assam,842,102
+21547,Jio,GTower, 473.00 ,Kite,43,Bihar,544,283
+21548,Airtel,LTower, 441.00 ,Bulbul,33,Chhattisgarh,399,241
+21549,Vodafone,MTower, 816.00 ,Sparrow,61,Goa,154,205
+21550,BSNL,GTower, 630.00 ,Spotted Dove,29,Gujarat,169,174
+21551,Idea,LTower, 495.00 ,Kite,75,Haryana,711,214
+21552,Jio,GTower, 745.00 ,Bulbul,74,Andhra Pradesh,110,195
+21553,Jio,LTower, 703.00 ,Sparrow,56,Arunachal Pradesh,654,297
+21554,Airtel,MTower, 569.00 ,Spotted Dove,78,Assam,167,270
+21555,BSNL,LTower, 479.00 ,Bulbul,80,Bihar,771,245
+21556,Vodafone,GTower, 502.00 ,Kite,29,Chhattisgarh,315,213
+21557,Idea,GTower, 848.00 ,Sparrow,32,Goa,742,197
+21558,BSNL,MTower, 704.00 ,Spotted Dove,56,Gujarat,892,89
+21559,Jio,LTower, 647.00 ,Kite,53,Haryana,779,92
+21560,Airtel,MTower, 756.00 ,Bulbul,38,Himachal Pradesh,257,96
+21561,Vodafone,GTower, 738.00 ,Sparrow,52,Jharkhand,105,300
+21562,BSNL,LTower, 325.00 ,Bulbul,77,Karnataka,831,201
+21563,Idea,MTower, 438.00 ,Kite,73,Kerala,416,109
+21564,Jio,GTower, 387.00 ,Spotted Dove,75,Madhya Pradesh,769,105
+21565,Jio,LTower, 464.00 ,Sparrow,58,Maharashtra,652,278
+21566,Airtel,GTower, 579.00 ,Sparrow,56,Manipur,662,187
+21567,BSNL,LTower, 633.00 ,Bulbul,23,Meghalaya,711,112
+21568,Vodafone,MTower, 729.00 ,Kite,58,Mizoram,633,198
+21569,Idea,LTower, 567.00 ,Bulbul,69,Nagaland,574,285
+21570,BSNL,GTower, 501.00 ,Sparrow,53,Odisha,194,164
+21571,Jio,GTower, 643.00 ,Spotted Dove,77,Punjab,568,110
+21572,Airtel,MTower, 753.00 ,Kite,56,Rajasthan,592,243
+21573,Vodafone,LTower, 592.00 ,Bulbul,72,Sikkim,380,96
+21574,BSNL,MTower, 849.00 ,Sparrow,33,Tamil Nadu,297,151
+21575,Idea,GTower, 844.00 ,Spotted Dove,53,Telangana,202,67
+21576,Jio,LTower, 825.00 ,Bulbul,23,Tripura,137,244
+21577,Jio,MTower, 723.00 ,Kite,45,Uttarakhand,548,215
+21578,Airtel,GTower, 898.00 ,Sparrow,66,Uttar Pradesh,357,249
+21579,BSNL,LTower, 833.00 ,Spotted Dove,75,West Bengal,861,258
+21580,Vodafone,GTower, 754.00 ,Kite,21,Andhra Pradesh,790,225
+21581,Idea,LTower, 626.00 ,Bulbul,25,Arunachal Pradesh,418,130
+21582,BSNL,MTower, 869.00 ,Sparrow,27,Assam,519,174
+21583,Jio,LTower, 658.00 ,Bulbul,25,Bihar,359,225
+21584,Airtel,GTower, 790.00 ,Kite,66,Chhattisgarh,859,282
+21585,Vodafone,GTower, 653.00 ,Spotted Dove,27,Goa,866,120
+21586,BSNL,MTower, 495.00 ,Sparrow,56,Gujarat,769,295
+21587,Idea,LTower, 516.00 ,Sparrow,22,Haryana,254,145
+21588,Jio,MTower, 623.00 ,Bulbul,40,Himachal Pradesh,555,280
+21589,Jio,GTower, 492.00 ,Kite,41,Jharkhand,201,277
+21590,Airtel,LTower, 854.00 ,Bulbul,48,Karnataka,814,287
+21591,BSNL,MTower, 754.00 ,Sparrow,80,Kerala,562,251
+21592,Vodafone,GTower, 714.00 ,Spotted Dove,22,Madhya Pradesh,663,231
+21593,Idea,LTower, 583.00 ,Kite,69,Maharashtra,407,162
+21594,BSNL,GTower, 733.00 ,Bulbul,57,Manipur,274,105
+21595,Jio,LTower, 818.00 ,Sparrow,31,Meghalaya,829,174
+21596,Airtel,MTower, 648.00 ,Spotted Dove,71,Mizoram,355,95
+21597,Vodafone,LTower, 415.00 ,Bulbul,30,Nagaland,865,161
+21598,BSNL,GTower, 618.00 ,Kite,50,Odisha,644,163
+21599,Idea,GTower, 534.00 ,Sparrow,44,Punjab,586,233
+21600,Jio,MTower, 489.00 ,Spotted Dove,52,Rajasthan,517,161
+21601,Jio,LTower, 760.00 ,Kite,24,Sikkim,739,157
+21602,Airtel,MTower, 677.00 ,Bulbul,33,Tamil Nadu,346,252
+21603,BSNL,GTower, 439.00 ,Sparrow,77,Telangana,652,93
+21604,Vodafone,LTower, 815.00 ,Bulbul,38,Tripura,575,158
+21605,Idea,MTower, 676.00 ,Kite,68,Uttarakhand,619,257
+21606,BSNL,GTower, 332.00 ,Spotted Dove,41,Uttar Pradesh,157,150
+21607,Jio,LTower, 704.00 ,Sparrow,77,West Bengal,425,187
+21608,Airtel,GTower, 730.00 ,Sparrow,23,Andhra Pradesh,666,297
+21609,Vodafone,LTower, 680.00 ,Bulbul,66,Arunachal Pradesh,435,247
+21610,BSNL,MTower, 661.00 ,Kite,39,Assam,716,230
+21611,Idea,LTower, 349.00 ,Bulbul,51,Bihar,408,51
+21612,Jio,GTower, 537.00 ,Sparrow,31,Chhattisgarh,805,159
+21613,Jio,GTower, 590.00 ,Spotted Dove,47,Goa,683,292
+21614,Airtel,MTower, 638.00 ,Kite,79,Gujarat,232,57
+21615,BSNL,LTower, 680.00 ,Bulbul,31,Haryana,773,97
+21616,Vodafone,MTower, 738.00 ,Sparrow,63,Andhra Pradesh,860,242
+21617,Idea,GTower, 682.00 ,Spotted Dove,64,Arunachal Pradesh,532,157
+21618,BSNL,LTower, 760.00 ,Bulbul,72,Assam,200,231
+21619,Jio,MTower, 412.00 ,Kite,53,Bihar,327,278
+21620,Airtel,GTower, 477.00 ,Sparrow,67,Chhattisgarh,248,290
+21621,Vodafone,LTower, 694.00 ,Spotted Dove,34,Goa,721,115
+21622,BSNL,GTower, 357.00 ,Kite,54,Gujarat,874,130
+21623,Idea,LTower, 437.00 ,Bulbul,62,Haryana,871,300
+21624,Jio,MTower, 526.00 ,Sparrow,66,Himachal Pradesh,292,102
+21625,Jio,LTower, 716.00 ,Bulbul,30,Jharkhand,320,211
+21626,Airtel,GTower, 338.00 ,Kite,77,Karnataka,337,265
+21627,BSNL,GTower, 305.00 ,Spotted Dove,25,Kerala,390,292
+21628,Vodafone,MTower, 900.00 ,Sparrow,53,Madhya Pradesh,501,269
+21629,Idea,LTower, 758.00 ,Sparrow,43,Maharashtra,803,251
+21630,BSNL,MTower, 799.00 ,Bulbul,76,Manipur,638,172
+21631,Jio,GTower, 575.00 ,Kite,68,Meghalaya,886,206
+21632,Airtel,LTower, 473.00 ,Bulbul,73,Mizoram,181,111
+21633,Vodafone,MTower, 791.00 ,Sparrow,23,Nagaland,110,118
+21634,BSNL,GTower, 508.00 ,Spotted Dove,48,Odisha,890,169
+21635,Idea,LTower, 707.00 ,Kite,29,Punjab,126,260
+21636,Jio,GTower, 437.00 ,Bulbul,37,Rajasthan,518,99
+21637,Jio,LTower, 798.00 ,Sparrow,20,Sikkim,309,225
+21638,Airtel,MTower, 372.00 ,Spotted Dove,75,Tamil Nadu,518,78
+21639,BSNL,LTower, 536.00 ,Bulbul,26,Telangana,256,68
+21640,Vodafone,GTower, 741.00 ,Kite,23,Tripura,488,249
+21641,Idea,GTower, 410.00 ,Sparrow,53,Uttarakhand,585,151
+21642,BSNL,MTower, 683.00 ,Spotted Dove,55,Uttar Pradesh,189,128
+21643,Jio,LTower, 657.00 ,Kite,76,West Bengal,640,103
+21644,Airtel,MTower, 406.00 ,Bulbul,26,Andhra Pradesh,862,247
+21645,Vodafone,GTower, 584.00 ,Sparrow,35,Arunachal Pradesh,393,278
+21646,BSNL,LTower, 838.00 ,Bulbul,33,Assam,329,261
+21647,Idea,MTower, 496.00 ,Kite,76,Bihar,726,72
+21648,Jio,GTower, 482.00 ,Spotted Dove,24,Chhattisgarh,253,287
+21649,Jio,LTower, 873.00 ,Sparrow,36,Goa,853,145
+21650,Airtel,GTower, 395.00 ,Sparrow,60,Gujarat,579,252
+21651,BSNL,LTower, 722.00 ,Bulbul,70,Haryana,502,94
+21652,Vodafone,MTower, 403.00 ,Kite,34,Himachal Pradesh,126,175
+21653,Idea,LTower, 710.00 ,Bulbul,73,Jharkhand,346,126
+21654,BSNL,GTower, 443.00 ,Sparrow,46,Karnataka,600,78
+21655,Jio,GTower, 306.00 ,Spotted Dove,55,Kerala,404,130
+21656,Airtel,MTower, 368.00 ,Kite,50,Madhya Pradesh,478,149
+21657,Vodafone,LTower, 684.00 ,Bulbul,75,Maharashtra,817,231
+21658,BSNL,MTower, 638.00 ,Sparrow,29,Manipur,698,266
+21659,Idea,GTower, 427.00 ,Spotted Dove,71,Meghalaya,643,228
+21660,Jio,LTower, 390.00 ,Bulbul,77,Mizoram,277,103
+21661,Jio,MTower, 597.00 ,Kite,64,Nagaland,477,52
+21662,Airtel,GTower, 444.00 ,Sparrow,53,Odisha,565,80
+21663,BSNL,LTower, 882.00 ,Spotted Dove,21,Punjab,317,125
+21664,Vodafone,GTower, 775.00 ,Kite,80,Rajasthan,129,189
+21665,Idea,LTower, 797.00 ,Bulbul,68,Sikkim,326,190
+21666,BSNL,MTower, 640.00 ,Sparrow,59,Tamil Nadu,292,89
+21667,Jio,LTower, 388.00 ,Bulbul,49,Telangana,853,167
+21668,Airtel,GTower, 881.00 ,Kite,23,Tripura,305,259
+21669,Vodafone,GTower, 493.00 ,Spotted Dove,32,Uttarakhand,870,292
+21670,BSNL,MTower, 364.00 ,Sparrow,53,Uttar Pradesh,683,224
+21671,Idea,LTower, 574.00 ,Sparrow,43,West Bengal,148,170
+21672,Jio,MTower, 705.00 ,Bulbul,23,Andhra Pradesh,242,208
+21673,Jio,GTower, 643.00 ,Kite,21,Arunachal Pradesh,223,167
+21674,Airtel,LTower, 658.00 ,Bulbul,72,Assam,551,218
+21675,BSNL,MTower, 371.00 ,Sparrow,72,Bihar,724,102
+21676,Vodafone,GTower, 465.00 ,Spotted Dove,58,Chhattisgarh,846,264
+21677,Idea,LTower, 863.00 ,Kite,32,Goa,192,294
+21678,BSNL,GTower, 524.00 ,Bulbul,54,Gujarat,670,234
+21679,Jio,LTower, 480.00 ,Sparrow,61,Haryana,900,201
+21680,Airtel,MTower, 833.00 ,Spotted Dove,39,Andhra Pradesh,419,292
+21681,Vodafone,LTower, 353.00 ,Bulbul,42,Arunachal Pradesh,124,80
+21682,BSNL,GTower, 519.00 ,Kite,26,Assam,485,154
+21683,Idea,GTower, 672.00 ,Sparrow,57,Bihar,482,190
+21684,Jio,MTower, 620.00 ,Spotted Dove,76,Chhattisgarh,441,299
+21685,Jio,LTower, 440.00 ,Kite,70,Goa,814,135
+21686,Airtel,MTower, 756.00 ,Bulbul,50,Gujarat,498,256
+21687,BSNL,GTower, 316.00 ,Sparrow,25,Haryana,629,160
+21688,Vodafone,LTower, 387.00 ,Bulbul,70,Himachal Pradesh,375,181
+21689,Idea,MTower, 862.00 ,Kite,44,Jharkhand,898,290
+21690,BSNL,GTower, 556.00 ,Spotted Dove,53,Karnataka,448,88
+21691,Jio,LTower, 611.00 ,Sparrow,30,Kerala,350,242
+21692,Airtel,GTower, 483.00 ,Sparrow,76,Madhya Pradesh,819,124
+21693,Vodafone,LTower, 857.00 ,Bulbul,73,Maharashtra,606,282
+21694,BSNL,MTower, 331.00 ,Kite,58,Manipur,536,293
+21695,Idea,LTower, 393.00 ,Bulbul,68,Meghalaya,122,242
+21696,Jio,GTower, 625.00 ,Sparrow,40,Mizoram,488,150
+21697,Jio,GTower, 639.00 ,Spotted Dove,22,Nagaland,785,201
+21698,Airtel,MTower, 693.00 ,Kite,52,Odisha,849,281
+21699,BSNL,LTower, 844.00 ,Bulbul,32,Punjab,610,119
+21700,Vodafone,MTower, 502.00 ,Sparrow,74,Rajasthan,182,166
+21701,Idea,GTower, 547.00 ,Spotted Dove,35,Sikkim,892,197
+21702,BSNL,LTower, 485.00 ,Bulbul,37,Tamil Nadu,815,164
+21703,Jio,MTower, 580.00 ,Kite,27,Telangana,405,121
+21704,Airtel,GTower, 636.00 ,Sparrow,72,Tripura,752,183
+21705,Vodafone,LTower, 562.00 ,Spotted Dove,57,Uttarakhand,833,56
+21706,BSNL,GTower, 720.00 ,Kite,21,Uttar Pradesh,122,112
+21707,Idea,LTower, 866.00 ,Bulbul,71,West Bengal,734,113
+21708,Jio,MTower, 694.00 ,Sparrow,22,Andhra Pradesh,622,248
+21709,Jio,LTower, 504.00 ,Bulbul,54,Arunachal Pradesh,383,146
+21710,Airtel,GTower, 626.00 ,Kite,63,Assam,274,126
+21711,BSNL,GTower, 402.00 ,Spotted Dove,56,Bihar,621,241
+21712,Vodafone,MTower, 596.00 ,Sparrow,30,Chhattisgarh,349,260
+21713,Idea,LTower, 525.00 ,Sparrow,56,Goa,545,144
+21714,BSNL,MTower, 534.00 ,Bulbul,54,Gujarat,452,89
+21715,Jio,GTower, 627.00 ,Kite,72,Haryana,811,62
+21716,Airtel,LTower, 872.00 ,Bulbul,62,Himachal Pradesh,676,64
+21717,Vodafone,MTower, 329.00 ,Sparrow,35,Jharkhand,790,277
+21718,BSNL,GTower, 888.00 ,Spotted Dove,62,Karnataka,858,287
+21719,Idea,LTower, 822.00 ,Kite,73,Kerala,587,122
+21720,Jio,GTower, 870.00 ,Bulbul,44,Madhya Pradesh,310,69
+21721,Jio,LTower, 334.00 ,Sparrow,47,Maharashtra,127,229
+21722,Airtel,MTower, 825.00 ,Spotted Dove,64,Manipur,306,186
+21723,BSNL,LTower, 451.00 ,Bulbul,78,Meghalaya,252,300
+21724,Vodafone,GTower, 865.00 ,Kite,75,Mizoram,580,226
+21725,Idea,GTower, 543.00 ,Sparrow,45,Nagaland,487,266
+21726,BSNL,MTower, 455.00 ,Spotted Dove,50,Odisha,693,269
+21727,Jio,LTower, 835.00 ,Kite,53,Punjab,301,211
+21728,Airtel,MTower, 682.00 ,Bulbul,61,Rajasthan,575,107
+21729,Vodafone,GTower, 800.00 ,Sparrow,53,Sikkim,257,75
+21730,BSNL,LTower, 416.00 ,Bulbul,51,Tamil Nadu,879,153
+21731,Idea,MTower, 767.00 ,Kite,77,Telangana,372,102
+21732,Jio,GTower, 891.00 ,Spotted Dove,53,Tripura,653,283
+21733,Jio,LTower, 616.00 ,Sparrow,47,Uttarakhand,365,264
+21734,Airtel,GTower, 596.00 ,Sparrow,20,Uttar Pradesh,251,271
+21735,BSNL,LTower, 470.00 ,Bulbul,63,West Bengal,359,85
+21736,Vodafone,MTower, 527.00 ,Kite,22,Andhra Pradesh,230,96
+21737,Idea,LTower, 849.00 ,Bulbul,27,Arunachal Pradesh,433,108
+21738,BSNL,GTower, 753.00 ,Sparrow,20,Assam,506,222
+21739,Jio,GTower, 560.00 ,Spotted Dove,38,Bihar,614,211
+21740,Airtel,MTower, 714.00 ,Kite,41,Chhattisgarh,372,240
+21741,Vodafone,LTower, 331.00 ,Bulbul,42,Goa,363,147
+21742,BSNL,MTower, 515.00 ,Sparrow,50,Gujarat,766,58
+21743,Idea,GTower, 893.00 ,Spotted Dove,39,Haryana,287,256
+21744,Jio,LTower, 486.00 ,Bulbul,72,Andhra Pradesh,465,178
+21745,Jio,MTower, 460.00 ,Kite,56,Arunachal Pradesh,300,113
+21746,Airtel,GTower, 405.00 ,Sparrow,47,Assam,690,126
+21747,BSNL,LTower, 606.00 ,Spotted Dove,79,Bihar,442,171
+21748,Vodafone,GTower, 865.00 ,Kite,68,Chhattisgarh,368,108
+21749,Idea,LTower, 325.00 ,Bulbul,56,Goa,300,84
+21750,BSNL,MTower, 866.00 ,Sparrow,22,Gujarat,638,202
+21751,Jio,LTower, 334.00 ,Bulbul,24,Haryana,659,299
+21752,Airtel,GTower, 507.00 ,Kite,55,Himachal Pradesh,311,239
+21753,Vodafone,GTower, 307.00 ,Spotted Dove,71,Jharkhand,679,122
+21754,BSNL,MTower, 316.00 ,Sparrow,58,Karnataka,428,222
+21755,Idea,LTower, 642.00 ,Sparrow,73,Kerala,168,198
+21756,Jio,MTower, 555.00 ,Bulbul,72,Madhya Pradesh,630,199
+21757,Jio,GTower, 715.00 ,Kite,46,Maharashtra,542,295
+21758,Airtel,LTower, 865.00 ,Bulbul,62,Manipur,374,50
+21759,BSNL,MTower, 599.00 ,Sparrow,41,Meghalaya,127,136
+21760,Vodafone,GTower, 512.00 ,Spotted Dove,22,Mizoram,469,196
+21761,Idea,LTower, 455.00 ,Kite,41,Nagaland,441,260
+21762,BSNL,GTower, 621.00 ,Bulbul,60,Odisha,377,287
+21763,Jio,LTower, 361.00 ,Sparrow,77,Punjab,151,223
+21764,Airtel,MTower, 475.00 ,Spotted Dove,51,Rajasthan,492,125
+21765,Vodafone,LTower, 860.00 ,Bulbul,22,Sikkim,431,101
+21766,BSNL,GTower, 668.00 ,Kite,29,Tamil Nadu,611,215
+21767,Idea,GTower, 483.00 ,Sparrow,36,Telangana,732,256
+21768,Jio,MTower, 691.00 ,Spotted Dove,53,Tripura,170,148
+21769,Jio,LTower, 354.00 ,Kite,55,Uttarakhand,231,294
+21770,Airtel,MTower, 560.00 ,Bulbul,37,Uttar Pradesh,283,229
+21771,BSNL,GTower, 618.00 ,Sparrow,61,West Bengal,454,115
+21772,Vodafone,LTower, 803.00 ,Bulbul,25,Andhra Pradesh,652,190
+21773,Idea,MTower, 498.00 ,Kite,63,Arunachal Pradesh,636,75
+21774,BSNL,GTower, 650.00 ,Spotted Dove,57,Assam,649,236
+21775,Jio,LTower, 513.00 ,Sparrow,25,Bihar,524,247
+21776,Airtel,GTower, 470.00 ,Sparrow,68,Chhattisgarh,899,167
+21777,Vodafone,LTower, 715.00 ,Bulbul,44,Goa,110,210
+21778,BSNL,MTower, 795.00 ,Kite,49,Gujarat,742,161
+21779,Idea,LTower, 529.00 ,Bulbul,26,Haryana,326,238
+21780,Jio,GTower, 772.00 ,Sparrow,38,Himachal Pradesh,854,175
+21781,Jio,GTower, 368.00 ,Spotted Dove,75,Jharkhand,231,99
+21782,Airtel,MTower, 772.00 ,Kite,65,Karnataka,337,296
+21783,BSNL,LTower, 537.00 ,Bulbul,54,Kerala,672,81
+21784,Vodafone,MTower, 337.00 ,Sparrow,20,Madhya Pradesh,417,51
+21785,Idea,GTower, 685.00 ,Spotted Dove,38,Maharashtra,795,146
+21786,BSNL,LTower, 589.00 ,Bulbul,23,Manipur,474,260
+21787,Jio,MTower, 300.00 ,Kite,27,Meghalaya,790,65
+21788,Airtel,GTower, 357.00 ,Sparrow,55,Mizoram,293,217
+21789,Vodafone,LTower, 546.00 ,Spotted Dove,32,Nagaland,830,117
+21790,BSNL,GTower, 369.00 ,Kite,69,Odisha,256,163
+21791,Idea,LTower, 860.00 ,Bulbul,69,Punjab,817,209
+21792,Jio,MTower, 482.00 ,Sparrow,77,Rajasthan,634,247
+21793,Jio,LTower, 541.00 ,Bulbul,46,Sikkim,825,280
+21794,Airtel,GTower, 728.00 ,Kite,34,Tamil Nadu,727,263
+21795,BSNL,GTower, 626.00 ,Spotted Dove,70,Telangana,577,188
+21796,Vodafone,MTower, 800.00 ,Sparrow,39,Tripura,888,58
+21797,Idea,LTower, 548.00 ,Sparrow,20,Uttarakhand,173,223
+21798,BSNL,MTower, 677.00 ,Bulbul,76,Uttar Pradesh,691,234
+21799,Jio,GTower, 563.00 ,Kite,49,West Bengal,452,57
+21800,Airtel,LTower, 342.00 ,Bulbul,45,Andhra Pradesh,339,210
+21801,Vodafone,MTower, 547.00 ,Sparrow,20,Arunachal Pradesh,276,80
+21802,BSNL,GTower, 701.00 ,Spotted Dove,22,Assam,297,103
+21803,Idea,LTower, 544.00 ,Kite,79,Bihar,698,53
+21804,Jio,GTower, 423.00 ,Bulbul,49,Chhattisgarh,492,299
+21805,Jio,LTower, 367.00 ,Sparrow,70,Goa,678,156
+21806,Airtel,MTower, 604.00 ,Spotted Dove,53,Gujarat,456,229
+21807,BSNL,LTower, 613.00 ,Bulbul,60,Haryana,205,121
+21808,Vodafone,GTower, 646.00 ,Kite,78,Andhra Pradesh,481,212
+21809,Idea,GTower, 897.00 ,Sparrow,38,Arunachal Pradesh,900,300
+21810,BSNL,MTower, 452.00 ,Spotted Dove,38,Assam,764,205
+21811,Jio,LTower, 862.00 ,Kite,37,Bihar,647,239
+21812,Airtel,MTower, 446.00 ,Bulbul,26,Chhattisgarh,241,153
+21813,Vodafone,GTower, 445.00 ,Sparrow,28,Goa,422,234
+21814,BSNL,LTower, 792.00 ,Bulbul,78,Gujarat,666,66
+21815,Idea,MTower, 450.00 ,Kite,34,Haryana,310,198
+21816,Jio,GTower, 777.00 ,Spotted Dove,54,Himachal Pradesh,285,178
+21817,Jio,LTower, 520.00 ,Sparrow,56,Jharkhand,542,213
+21818,Airtel,GTower, 395.00 ,Sparrow,43,Karnataka,117,120
+21819,BSNL,LTower, 737.00 ,Bulbul,79,Kerala,664,159
+21820,Vodafone,MTower, 804.00 ,Kite,20,Madhya Pradesh,140,171
+21821,Idea,LTower, 363.00 ,Bulbul,39,Maharashtra,166,111
+21822,BSNL,GTower, 520.00 ,Sparrow,41,Manipur,591,271
+21823,Jio,GTower, 610.00 ,Spotted Dove,41,Meghalaya,233,231
+21824,Airtel,MTower, 826.00 ,Kite,26,Mizoram,201,234
+21825,Vodafone,LTower, 817.00 ,Bulbul,57,Nagaland,573,193
+21826,BSNL,MTower, 623.00 ,Sparrow,63,Odisha,787,197
+21827,Idea,GTower, 541.00 ,Spotted Dove,47,Punjab,624,109
+21828,Jio,LTower, 748.00 ,Bulbul,51,Rajasthan,450,64
+21829,Jio,MTower, 756.00 ,Kite,60,Sikkim,172,169
+21830,Airtel,GTower, 688.00 ,Sparrow,77,Tamil Nadu,456,248
+21831,BSNL,LTower, 806.00 ,Spotted Dove,57,Telangana,411,94
+21832,Vodafone,GTower, 841.00 ,Kite,74,Tripura,155,214
+21833,Idea,LTower, 705.00 ,Bulbul,34,Uttarakhand,165,93
+21834,BSNL,MTower, 820.00 ,Sparrow,26,Uttar Pradesh,310,173
+21835,Jio,LTower, 371.00 ,Bulbul,70,West Bengal,217,242
+21836,Airtel,GTower, 579.00 ,Kite,72,Andhra Pradesh,652,152
+21837,Vodafone,GTower, 813.00 ,Spotted Dove,27,Arunachal Pradesh,391,256
+21838,BSNL,MTower, 595.00 ,Sparrow,67,Assam,536,177
+21839,Idea,LTower, 872.00 ,Sparrow,22,Bihar,559,100
+21840,Jio,MTower, 478.00 ,Bulbul,42,Chhattisgarh,545,67
+21841,Jio,GTower, 697.00 ,Kite,40,Goa,119,133
+21842,Airtel,LTower, 644.00 ,Bulbul,20,Gujarat,411,225
+21843,BSNL,MTower, 677.00 ,Sparrow,69,Haryana,207,51
+21844,Vodafone,GTower, 807.00 ,Spotted Dove,48,Himachal Pradesh,788,142
+21845,Idea,LTower, 636.00 ,Kite,63,Jharkhand,557,160
+21846,BSNL,GTower, 588.00 ,Bulbul,33,Karnataka,531,208
+21847,Jio,LTower, 663.00 ,Sparrow,35,Kerala,285,270
+21848,Airtel,MTower, 601.00 ,Spotted Dove,30,Madhya Pradesh,423,76
+21849,Vodafone,LTower, 547.00 ,Bulbul,49,Maharashtra,433,193
+21850,BSNL,GTower, 585.00 ,Kite,76,Manipur,303,141
+21851,Idea,GTower, 370.00 ,Sparrow,59,Meghalaya,565,170
+21852,Jio,MTower, 684.00 ,Spotted Dove,68,Mizoram,626,235
+21853,Jio,LTower, 768.00 ,Kite,53,Nagaland,307,256
+21854,Airtel,MTower, 492.00 ,Bulbul,80,Odisha,460,167
+21855,BSNL,GTower, 670.00 ,Sparrow,31,Punjab,680,54
+21856,Vodafone,LTower, 308.00 ,Bulbul,74,Rajasthan,602,294
+21857,Idea,MTower, 635.00 ,Kite,63,Sikkim,143,284
+21858,BSNL,GTower, 527.00 ,Spotted Dove,60,Tamil Nadu,126,118
+21859,Jio,LTower, 386.00 ,Sparrow,75,Telangana,560,130
+21860,Airtel,GTower, 340.00 ,Sparrow,67,Tripura,230,188
+21861,Vodafone,LTower, 849.00 ,Bulbul,75,Uttarakhand,533,246
+21862,BSNL,MTower, 676.00 ,Kite,74,Uttar Pradesh,112,146
+21863,Idea,LTower, 826.00 ,Bulbul,27,West Bengal,721,80
+21864,Jio,GTower, 609.00 ,Sparrow,53,Andhra Pradesh,850,271
+21865,Jio,GTower, 343.00 ,Spotted Dove,64,Arunachal Pradesh,637,108
+21866,Airtel,MTower, 403.00 ,Kite,72,Assam,193,157
+21867,BSNL,LTower, 353.00 ,Bulbul,34,Bihar,105,187
+21868,Vodafone,MTower, 495.00 ,Sparrow,31,Chhattisgarh,790,165
+21869,Idea,GTower, 468.00 ,Spotted Dove,79,Goa,694,296
+21870,BSNL,LTower, 301.00 ,Bulbul,71,Gujarat,624,257
+21871,Jio,MTower, 634.00 ,Kite,21,Haryana,564,291
+21872,Airtel,GTower, 832.00 ,Sparrow,57,Andhra Pradesh,441,133
+21873,Vodafone,LTower, 499.00 ,Spotted Dove,73,Arunachal Pradesh,760,207
+21874,BSNL,GTower, 705.00 ,Kite,36,Assam,275,157
+21875,Idea,LTower, 476.00 ,Bulbul,27,Bihar,706,90
+21876,Jio,MTower, 780.00 ,Sparrow,30,Chhattisgarh,530,244
+21877,Jio,LTower, 877.00 ,Bulbul,44,Goa,638,270
+21878,Airtel,GTower, 645.00 ,Kite,53,Gujarat,723,60
+21879,BSNL,GTower, 446.00 ,Spotted Dove,41,Haryana,300,237
+21880,Vodafone,MTower, 309.00 ,Sparrow,25,Himachal Pradesh,285,60
+21881,Idea,LTower, 459.00 ,Sparrow,38,Jharkhand,349,75
+21882,BSNL,MTower, 365.00 ,Bulbul,23,Karnataka,642,85
+21883,Jio,GTower, 630.00 ,Kite,51,Kerala,340,91
+21884,Airtel,LTower, 492.00 ,Bulbul,30,Madhya Pradesh,107,144
+21885,Vodafone,MTower, 349.00 ,Sparrow,80,Maharashtra,721,148
+21886,BSNL,GTower, 488.00 ,Spotted Dove,34,Manipur,355,196
+21887,Idea,LTower, 774.00 ,Kite,60,Meghalaya,444,173
+21888,Jio,GTower, 474.00 ,Bulbul,37,Mizoram,587,285
+21889,Jio,LTower, 650.00 ,Sparrow,20,Nagaland,140,117
+21890,Airtel,MTower, 583.00 ,Spotted Dove,79,Odisha,451,294
+21891,BSNL,LTower, 561.00 ,Bulbul,45,Punjab,104,64
+21892,Vodafone,GTower, 825.00 ,Kite,53,Rajasthan,866,140
+21893,Idea,GTower, 486.00 ,Sparrow,66,Sikkim,416,263
+21894,BSNL,MTower, 754.00 ,Spotted Dove,45,Tamil Nadu,183,226
+21895,Jio,LTower, 716.00 ,Kite,60,Telangana,845,93
+21896,Airtel,MTower, 756.00 ,Bulbul,60,Tripura,343,200
+21897,Vodafone,GTower, 454.00 ,Sparrow,77,Uttarakhand,166,214
+21898,BSNL,LTower, 542.00 ,Bulbul,69,Uttar Pradesh,680,188
+21899,Idea,MTower, 583.00 ,Kite,45,West Bengal,385,276
+21900,Jio,GTower, 864.00 ,Spotted Dove,39,Andhra Pradesh,562,128
+21901,Jio,LTower, 534.00 ,Sparrow,64,Arunachal Pradesh,444,272
+21902,Airtel,GTower, 493.00 ,Sparrow,26,Assam,523,147
+21903,BSNL,LTower, 434.00 ,Bulbul,73,Bihar,487,178
+21904,Vodafone,MTower, 615.00 ,Kite,68,Chhattisgarh,528,293
+21905,Idea,LTower, 899.00 ,Bulbul,54,Goa,704,166
+21906,BSNL,GTower, 738.00 ,Sparrow,75,Gujarat,658,292
+21907,Jio,GTower, 611.00 ,Spotted Dove,49,Haryana,857,220
+21908,Airtel,MTower, 554.00 ,Kite,58,Himachal Pradesh,606,222
+21909,Vodafone,LTower, 438.00 ,Bulbul,57,Jharkhand,584,228
+21910,BSNL,MTower, 355.00 ,Sparrow,38,Karnataka,506,116
+21911,Idea,GTower, 551.00 ,Spotted Dove,50,Kerala,155,286
+21912,Jio,LTower, 778.00 ,Bulbul,34,Madhya Pradesh,463,80
+21913,Jio,MTower, 872.00 ,Kite,30,Maharashtra,404,222
+21914,Airtel,GTower, 333.00 ,Sparrow,45,Manipur,345,115
+21915,BSNL,LTower, 764.00 ,Spotted Dove,53,Meghalaya,707,205
+21916,Vodafone,GTower, 360.00 ,Kite,75,Mizoram,385,175
+21917,Idea,LTower, 575.00 ,Bulbul,62,Nagaland,203,265
+21918,BSNL,MTower, 612.00 ,Sparrow,72,Odisha,438,106
+21919,Jio,LTower, 781.00 ,Bulbul,40,Punjab,615,275
+21920,Airtel,GTower, 630.00 ,Kite,59,Rajasthan,462,247
+21921,Vodafone,GTower, 688.00 ,Spotted Dove,76,Sikkim,610,212
+21922,BSNL,MTower, 385.00 ,Sparrow,22,Tamil Nadu,563,167
+21923,Idea,LTower, 384.00 ,Sparrow,28,Telangana,220,215
+21924,Jio,MTower, 832.00 ,Bulbul,45,Tripura,743,82
+21925,Jio,GTower, 615.00 ,Kite,51,Uttarakhand,860,103
+21926,Airtel,LTower, 543.00 ,Bulbul,57,Uttar Pradesh,433,96
+21927,BSNL,MTower, 683.00 ,Sparrow,76,West Bengal,624,159
+21928,Vodafone,GTower, 763.00 ,Spotted Dove,72,Andhra Pradesh,491,207
+21929,Idea,LTower, 819.00 ,Kite,59,Arunachal Pradesh,248,273
+21930,BSNL,GTower, 483.00 ,Bulbul,78,Assam,117,277
+21931,Jio,LTower, 668.00 ,Sparrow,66,Bihar,488,280
+21932,Airtel,MTower, 830.00 ,Spotted Dove,48,Chhattisgarh,785,269
+21933,Vodafone,LTower, 403.00 ,Bulbul,22,Goa,673,115
+21934,BSNL,GTower, 784.00 ,Kite,29,Gujarat,409,50
+21935,Idea,GTower, 412.00 ,Sparrow,45,Haryana,363,234
+21936,Jio,MTower, 335.00 ,Spotted Dove,72,Andhra Pradesh,119,89
+21937,Jio,LTower, 876.00 ,Kite,23,Arunachal Pradesh,683,239
+21938,Airtel,MTower, 363.00 ,Bulbul,53,Assam,307,174
+21939,BSNL,GTower, 475.00 ,Sparrow,26,Bihar,547,128
+21940,Vodafone,LTower, 497.00 ,Bulbul,32,Chhattisgarh,819,86
+21941,Idea,MTower, 312.00 ,Kite,62,Goa,421,90
+21942,BSNL,GTower, 593.00 ,Spotted Dove,53,Gujarat,569,110
+21943,Jio,LTower, 755.00 ,Sparrow,56,Haryana,172,254
+21944,Airtel,GTower, 558.00 ,Sparrow,49,Himachal Pradesh,153,126
+21945,Vodafone,LTower, 569.00 ,Bulbul,53,Jharkhand,726,124
+21946,BSNL,MTower, 515.00 ,Kite,54,Karnataka,818,118
+21947,Idea,LTower, 418.00 ,Bulbul,72,Kerala,805,112
+21948,Jio,GTower, 459.00 ,Sparrow,34,Madhya Pradesh,654,140
+21949,Jio,GTower, 613.00 ,Spotted Dove,20,Maharashtra,122,205
+21950,Airtel,MTower, 559.00 ,Kite,43,Manipur,228,143
+21951,BSNL,LTower, 494.00 ,Bulbul,48,Meghalaya,794,186
+21952,Vodafone,MTower, 774.00 ,Sparrow,44,Mizoram,856,153
+21953,Idea,GTower, 687.00 ,Spotted Dove,39,Nagaland,873,76
+21954,BSNL,LTower, 596.00 ,Bulbul,42,Odisha,478,279
+21955,Jio,MTower, 749.00 ,Kite,41,Punjab,319,112
+21956,Airtel,GTower, 886.00 ,Sparrow,75,Rajasthan,133,141
+21957,Vodafone,LTower, 568.00 ,Spotted Dove,68,Sikkim,736,291
+21958,BSNL,GTower, 586.00 ,Kite,33,Tamil Nadu,269,143
+21959,Idea,LTower, 365.00 ,Bulbul,65,Telangana,539,202
+21960,Jio,MTower, 572.00 ,Sparrow,67,Tripura,733,68
+21961,Jio,LTower, 581.00 ,Bulbul,75,Uttarakhand,876,132
+21962,Airtel,GTower, 869.00 ,Kite,52,Uttar Pradesh,299,63
+21963,BSNL,GTower, 579.00 ,Spotted Dove,45,West Bengal,878,62
+21964,Vodafone,MTower, 517.00 ,Sparrow,55,Andhra Pradesh,413,242
+21965,Idea,LTower, 663.00 ,Sparrow,40,Arunachal Pradesh,266,154
+21966,BSNL,MTower, 803.00 ,Bulbul,47,Assam,295,95
+21967,Jio,GTower, 530.00 ,Kite,20,Bihar,569,63
+21968,Airtel,LTower, 791.00 ,Bulbul,36,Chhattisgarh,849,191
+21969,Vodafone,MTower, 494.00 ,Sparrow,50,Goa,274,251
+21970,BSNL,GTower, 723.00 ,Spotted Dove,30,Gujarat,739,139
+21971,Idea,LTower, 591.00 ,Kite,58,Haryana,408,209
+21972,Jio,GTower, 409.00 ,Bulbul,53,Himachal Pradesh,614,248
+21973,Jio,LTower, 751.00 ,Sparrow,44,Jharkhand,252,186
+21974,Airtel,MTower, 779.00 ,Spotted Dove,58,Karnataka,339,159
+21975,BSNL,LTower, 594.00 ,Bulbul,77,Kerala,619,91
+21976,Vodafone,GTower, 653.00 ,Kite,64,Madhya Pradesh,425,59
+21977,Idea,GTower, 827.00 ,Sparrow,28,Maharashtra,487,283
+21978,BSNL,MTower, 367.00 ,Spotted Dove,43,Manipur,657,190
+21979,Jio,LTower, 535.00 ,Kite,42,Meghalaya,205,93
+21980,Airtel,MTower, 844.00 ,Bulbul,64,Mizoram,221,299
+21981,Vodafone,GTower, 438.00 ,Sparrow,75,Nagaland,852,265
+21982,BSNL,LTower, 635.00 ,Bulbul,30,Odisha,120,154
+21983,Idea,MTower, 461.00 ,Kite,40,Punjab,321,276
+21984,Jio,GTower, 460.00 ,Spotted Dove,31,Rajasthan,642,226
+21985,Jio,LTower, 449.00 ,Sparrow,20,Sikkim,134,142
+21986,Airtel,GTower, 821.00 ,Sparrow,29,Tamil Nadu,358,282
+21987,BSNL,LTower, 533.00 ,Bulbul,62,Telangana,317,264
+21988,Vodafone,MTower, 630.00 ,Kite,72,Tripura,502,209
+21989,Idea,LTower, 619.00 ,Bulbul,70,Uttarakhand,449,206
+21990,BSNL,GTower, 363.00 ,Sparrow,42,Uttar Pradesh,324,227
+21991,Jio,GTower, 852.00 ,Spotted Dove,80,West Bengal,887,271
+21992,Airtel,MTower, 576.00 ,Kite,39,Andhra Pradesh,894,258
+21993,Vodafone,LTower, 525.00 ,Bulbul,66,Arunachal Pradesh,326,148
+21994,BSNL,MTower, 589.00 ,Sparrow,70,Assam,132,289
+21995,Idea,GTower, 438.00 ,Spotted Dove,35,Bihar,393,190
+21996,Jio,LTower, 554.00 ,Bulbul,75,Chhattisgarh,787,268
+21997,Jio,MTower, 899.00 ,Kite,39,Goa,808,155
+21998,Airtel,GTower, 530.00 ,Sparrow,63,Gujarat,502,110
+21999,BSNL,LTower, 716.00 ,Spotted Dove,69,Haryana,188,180
+22000,Vodafone,GTower, 474.00 ,Kite,66,Andhra Pradesh,723,217
+22001,Idea,LTower, 527.00 ,Bulbul,58,Arunachal Pradesh,193,89
+22002,BSNL,MTower, 628.00 ,Sparrow,78,Assam,315,59
+22003,Jio,LTower, 875.00 ,Bulbul,41,Bihar,754,73
+22004,Airtel,GTower, 882.00 ,Kite,65,Chhattisgarh,734,81
+22005,Vodafone,GTower, 547.00 ,Spotted Dove,52,Goa,494,232
+22006,BSNL,MTower, 417.00 ,Sparrow,36,Gujarat,693,226
+22007,Idea,LTower, 405.00 ,Sparrow,26,Haryana,825,119
+22008,Jio,MTower, 892.00 ,Bulbul,20,Himachal Pradesh,101,67
+22009,Jio,GTower, 327.00 ,Kite,73,Jharkhand,158,179
+22010,Airtel,LTower, 718.00 ,Bulbul,20,Karnataka,453,252
+22011,BSNL,MTower, 485.00 ,Sparrow,57,Kerala,711,159
+22012,Vodafone,GTower, 460.00 ,Spotted Dove,35,Madhya Pradesh,643,220
+22013,Idea,LTower, 655.00 ,Kite,75,Maharashtra,750,195
+22014,BSNL,GTower, 552.00 ,Bulbul,57,Manipur,535,250
+22015,Jio,LTower, 534.00 ,Sparrow,43,Meghalaya,109,95
+22016,Airtel,MTower, 339.00 ,Spotted Dove,31,Mizoram,796,271
+22017,Vodafone,LTower, 730.00 ,Bulbul,31,Nagaland,729,173
+22018,BSNL,GTower, 664.00 ,Kite,63,Odisha,161,191
+22019,Idea,GTower, 430.00 ,Sparrow,37,Punjab,503,275
+22020,Jio,MTower, 649.00 ,Spotted Dove,29,Rajasthan,426,110
+22021,Jio,LTower, 474.00 ,Kite,63,Sikkim,243,269
+22022,Airtel,MTower, 831.00 ,Bulbul,60,Tamil Nadu,527,161
+22023,BSNL,GTower, 373.00 ,Sparrow,72,Telangana,881,115
+22024,Vodafone,LTower, 600.00 ,Bulbul,80,Tripura,602,186
+22025,Idea,MTower, 621.00 ,Kite,23,Uttarakhand,865,298
+22026,BSNL,GTower, 884.00 ,Spotted Dove,55,Uttar Pradesh,415,219
+22027,Jio,LTower, 427.00 ,Sparrow,34,West Bengal,398,222
+22028,Airtel,GTower, 653.00 ,Sparrow,59,Andhra Pradesh,176,266
+22029,Vodafone,LTower, 357.00 ,Bulbul,76,Arunachal Pradesh,780,107
+22030,BSNL,MTower, 711.00 ,Kite,42,Assam,482,117
+22031,Idea,LTower, 514.00 ,Bulbul,36,Bihar,812,206
+22032,Jio,GTower, 387.00 ,Sparrow,20,Chhattisgarh,618,122
+22033,Jio,GTower, 410.00 ,Spotted Dove,58,Goa,282,181
+22034,Airtel,MTower, 352.00 ,Kite,53,Gujarat,473,149
+22035,BSNL,LTower, 531.00 ,Bulbul,60,Haryana,348,256
+22036,Vodafone,MTower, 415.00 ,Sparrow,63,Himachal Pradesh,409,253
+22037,Idea,GTower, 840.00 ,Spotted Dove,37,Jharkhand,108,207
+22038,BSNL,LTower, 772.00 ,Bulbul,24,Karnataka,302,94
+22039,Jio,MTower, 708.00 ,Kite,25,Kerala,663,179
+22040,Airtel,GTower, 768.00 ,Sparrow,73,Madhya Pradesh,211,232
+22041,Vodafone,LTower, 731.00 ,Spotted Dove,73,Maharashtra,506,142
+22042,BSNL,GTower, 575.00 ,Kite,54,Manipur,382,113
+22043,Idea,LTower, 381.00 ,Bulbul,65,Meghalaya,314,248
+22044,Jio,MTower, 782.00 ,Sparrow,22,Mizoram,449,277
+22045,Jio,LTower, 324.00 ,Bulbul,63,Nagaland,341,58
+22046,Airtel,GTower, 450.00 ,Kite,77,Odisha,795,236
+22047,BSNL,GTower, 462.00 ,Spotted Dove,80,Punjab,595,59
+22048,Vodafone,MTower, 884.00 ,Sparrow,48,Rajasthan,486,245
+22049,Idea,LTower, 443.00 ,Sparrow,29,Sikkim,214,159
+22050,BSNL,MTower, 396.00 ,Bulbul,24,Tamil Nadu,788,241
+22051,Jio,GTower, 717.00 ,Kite,52,Telangana,531,291
+22052,Airtel,LTower, 893.00 ,Bulbul,62,Tripura,599,72
+22053,Vodafone,MTower, 638.00 ,Sparrow,20,Uttarakhand,672,174
+22054,BSNL,GTower, 683.00 ,Spotted Dove,50,Uttar Pradesh,745,168
+22055,Idea,LTower, 815.00 ,Kite,47,West Bengal,169,222
+22056,Jio,GTower, 603.00 ,Bulbul,46,Andhra Pradesh,479,212
+22057,Jio,LTower, 575.00 ,Sparrow,51,Arunachal Pradesh,819,277
+22058,Airtel,MTower, 364.00 ,Spotted Dove,46,Assam,106,68
+22059,BSNL,LTower, 402.00 ,Bulbul,44,Bihar,679,179
+22060,Vodafone,GTower, 794.00 ,Kite,45,Chhattisgarh,359,244
+22061,Idea,GTower, 364.00 ,Sparrow,68,Goa,651,175
+22062,BSNL,MTower, 528.00 ,Spotted Dove,27,Gujarat,333,77
+22063,Jio,LTower, 620.00 ,Kite,69,Haryana,199,56
+22064,Airtel,MTower, 787.00 ,Bulbul,29,Andhra Pradesh,116,172
+22065,Vodafone,GTower, 310.00 ,Sparrow,34,Arunachal Pradesh,589,181
+22066,BSNL,LTower, 724.00 ,Bulbul,50,Assam,761,254
+22067,Idea,MTower, 583.00 ,Kite,47,Bihar,270,272
+22068,Jio,GTower, 737.00 ,Spotted Dove,66,Chhattisgarh,312,199
+22069,Jio,LTower, 625.00 ,Sparrow,60,Goa,426,151
+22070,Airtel,GTower, 859.00 ,Sparrow,52,Gujarat,614,183
+22071,BSNL,LTower, 757.00 ,Bulbul,38,Haryana,280,283
+22072,Vodafone,MTower, 477.00 ,Kite,75,Himachal Pradesh,121,148
+22073,Idea,LTower, 429.00 ,Bulbul,76,Jharkhand,355,211
+22074,BSNL,GTower, 781.00 ,Sparrow,67,Karnataka,286,90
+22075,Jio,GTower, 356.00 ,Spotted Dove,44,Kerala,810,88
+22076,Airtel,MTower, 831.00 ,Kite,40,Madhya Pradesh,185,213
+22077,Vodafone,LTower, 671.00 ,Bulbul,48,Maharashtra,153,298
+22078,BSNL,MTower, 754.00 ,Sparrow,42,Manipur,670,217
+22079,Idea,GTower, 740.00 ,Spotted Dove,77,Meghalaya,209,217
+22080,Jio,LTower, 304.00 ,Bulbul,43,Mizoram,671,224
+22081,Jio,MTower, 554.00 ,Kite,58,Nagaland,146,173
+22082,Airtel,GTower, 641.00 ,Sparrow,65,Odisha,281,142
+22083,BSNL,LTower, 442.00 ,Spotted Dove,25,Punjab,266,110
+22084,Vodafone,GTower, 833.00 ,Kite,34,Rajasthan,400,181
+22085,Idea,LTower, 712.00 ,Bulbul,29,Sikkim,633,77
+22086,BSNL,MTower, 631.00 ,Sparrow,44,Tamil Nadu,690,208
+22087,Jio,LTower, 417.00 ,Bulbul,35,Telangana,107,90
+22088,Airtel,GTower, 661.00 ,Kite,60,Tripura,738,211
+22089,Vodafone,GTower, 350.00 ,Spotted Dove,34,Uttarakhand,661,164
+22090,BSNL,MTower, 340.00 ,Sparrow,78,Uttar Pradesh,269,146
+22091,Idea,LTower, 659.00 ,Sparrow,69,West Bengal,339,253
+22092,Jio,MTower, 461.00 ,Bulbul,46,Andhra Pradesh,623,124
+22093,Jio,GTower, 799.00 ,Kite,48,Arunachal Pradesh,840,152
+22094,Airtel,LTower, 356.00 ,Bulbul,69,Assam,648,93
+22095,BSNL,MTower, 789.00 ,Sparrow,29,Bihar,626,289
+22096,Vodafone,GTower, 871.00 ,Spotted Dove,23,Chhattisgarh,770,276
+22097,Idea,LTower, 882.00 ,Kite,79,Goa,758,263
+22098,BSNL,GTower, 331.00 ,Bulbul,60,Gujarat,305,182
+22099,Jio,LTower, 581.00 ,Sparrow,27,Haryana,636,268
+22100,Airtel,MTower, 425.00 ,Spotted Dove,57,Himachal Pradesh,265,103
+22101,Vodafone,LTower, 783.00 ,Bulbul,54,Jharkhand,771,237
+22102,BSNL,GTower, 310.00 ,Kite,70,Karnataka,647,82
+22103,Idea,GTower, 596.00 ,Sparrow,78,Kerala,870,196
+22104,Jio,MTower, 769.00 ,Spotted Dove,55,Madhya Pradesh,388,269
+22105,Jio,LTower, 437.00 ,Kite,47,Maharashtra,690,114
+22106,Airtel,MTower, 520.00 ,Bulbul,21,Manipur,890,166
+22107,BSNL,GTower, 331.00 ,Sparrow,77,Meghalaya,857,254
+22108,Vodafone,LTower, 691.00 ,Bulbul,57,Mizoram,234,276
+22109,Idea,MTower, 454.00 ,Kite,64,Nagaland,750,157
+22110,BSNL,GTower, 800.00 ,Spotted Dove,28,Odisha,232,166
+22111,Jio,LTower, 739.00 ,Sparrow,33,Punjab,731,221
+22112,Airtel,GTower, 404.00 ,Sparrow,40,Rajasthan,865,112
+22113,Vodafone,LTower, 748.00 ,Bulbul,44,Sikkim,294,261
+22114,BSNL,MTower, 698.00 ,Kite,63,Tamil Nadu,642,144
+22115,Idea,LTower, 359.00 ,Bulbul,28,Telangana,440,97
+22116,Jio,GTower, 838.00 ,Sparrow,44,Tripura,263,176
+22117,Jio,GTower, 457.00 ,Spotted Dove,52,Uttarakhand,289,145
+22118,Airtel,MTower, 314.00 ,Kite,43,Uttar Pradesh,328,214
+22119,BSNL,LTower, 647.00 ,Bulbul,43,West Bengal,563,192
+22120,Vodafone,MTower, 300.00 ,Sparrow,69,Andhra Pradesh,294,55
+22121,Idea,GTower, 473.00 ,Spotted Dove,72,Arunachal Pradesh,286,148
+22122,BSNL,LTower, 362.00 ,Bulbul,36,Assam,510,179
+22123,Jio,MTower, 564.00 ,Kite,78,Bihar,618,194
+22124,Airtel,GTower, 585.00 ,Sparrow,69,Chhattisgarh,862,290
+22125,Vodafone,LTower, 784.00 ,Spotted Dove,54,Goa,875,299
+22126,BSNL,GTower, 312.00 ,Kite,72,Gujarat,247,152
+22127,Idea,LTower, 736.00 ,Bulbul,69,Haryana,274,164
+22128,Jio,MTower, 325.00 ,Sparrow,25,Andhra Pradesh,828,294
+22129,Jio,LTower, 873.00 ,Bulbul,80,Arunachal Pradesh,630,136
+22130,Airtel,GTower, 557.00 ,Kite,24,Assam,813,229
+22131,BSNL,GTower, 870.00 ,Spotted Dove,58,Bihar,540,86
+22132,Vodafone,MTower, 404.00 ,Sparrow,76,Chhattisgarh,199,238
+22133,Idea,LTower, 769.00 ,Sparrow,38,Goa,489,62
+22134,BSNL,MTower, 848.00 ,Bulbul,62,Gujarat,136,127
+22135,Jio,GTower, 527.00 ,Kite,39,Haryana,134,133
+22136,Airtel,LTower, 576.00 ,Bulbul,48,Himachal Pradesh,394,249
+22137,Vodafone,MTower, 626.00 ,Sparrow,39,Jharkhand,206,300
+22138,BSNL,GTower, 318.00 ,Spotted Dove,62,Karnataka,117,116
+22139,Idea,LTower, 892.00 ,Kite,33,Kerala,818,103
+22140,Jio,GTower, 634.00 ,Bulbul,63,Madhya Pradesh,394,206
+22141,Jio,LTower, 336.00 ,Sparrow,22,Maharashtra,261,240
+22142,Airtel,MTower, 502.00 ,Spotted Dove,51,Manipur,570,90
+22143,BSNL,LTower, 557.00 ,Bulbul,40,Meghalaya,512,250
+22144,Vodafone,GTower, 739.00 ,Kite,75,Mizoram,170,171
+22145,Idea,GTower, 840.00 ,Sparrow,39,Nagaland,889,181
+22146,BSNL,MTower, 406.00 ,Spotted Dove,31,Odisha,433,153
+22147,Jio,LTower, 544.00 ,Kite,29,Punjab,814,277
+22148,Airtel,MTower, 797.00 ,Bulbul,25,Rajasthan,486,200
+22149,Vodafone,GTower, 456.00 ,Sparrow,58,Sikkim,751,235
+22150,BSNL,LTower, 430.00 ,Bulbul,39,Tamil Nadu,222,190
+22151,Idea,MTower, 488.00 ,Kite,56,Telangana,833,124
+22152,Jio,GTower, 302.00 ,Spotted Dove,21,Tripura,302,62
+22153,Jio,LTower, 595.00 ,Sparrow,70,Uttarakhand,783,186
+22154,Airtel,GTower, 658.00 ,Sparrow,47,Uttar Pradesh,836,72
+22155,BSNL,LTower, 482.00 ,Bulbul,40,West Bengal,601,206
+22156,Vodafone,MTower, 805.00 ,Kite,68,Andhra Pradesh,726,196
+22157,Idea,LTower, 651.00 ,Bulbul,69,Arunachal Pradesh,340,54
+22158,BSNL,GTower, 528.00 ,Sparrow,62,Assam,719,195
+22159,Jio,GTower, 371.00 ,Spotted Dove,23,Bihar,306,52
+22160,Airtel,MTower, 497.00 ,Kite,28,Chhattisgarh,884,208
+22161,Vodafone,LTower, 794.00 ,Bulbul,74,Goa,660,159
+22162,BSNL,MTower, 733.00 ,Sparrow,71,Gujarat,734,260
+22163,Idea,GTower, 310.00 ,Spotted Dove,68,Haryana,460,207
+22164,Jio,LTower, 462.00 ,Bulbul,48,Himachal Pradesh,780,253
+22165,Jio,MTower, 489.00 ,Kite,60,Jharkhand,682,61
+22166,Airtel,GTower, 608.00 ,Sparrow,30,Karnataka,383,184
+22167,BSNL,LTower, 558.00 ,Spotted Dove,73,Kerala,337,74
+22168,Vodafone,GTower, 800.00 ,Kite,50,Madhya Pradesh,785,181
+22169,Idea,LTower, 760.00 ,Bulbul,80,Maharashtra,703,118
+22170,BSNL,MTower, 394.00 ,Sparrow,63,Manipur,896,111
+22171,Jio,LTower, 709.00 ,Bulbul,48,Meghalaya,438,186
+22172,Airtel,GTower, 500.00 ,Kite,35,Mizoram,720,113
+22173,Vodafone,GTower, 322.00 ,Spotted Dove,36,Nagaland,332,131
+22174,BSNL,MTower, 624.00 ,Sparrow,41,Odisha,415,80
+22175,Idea,LTower, 499.00 ,Sparrow,56,Punjab,660,109
+22176,Jio,MTower, 317.00 ,Bulbul,71,Rajasthan,109,252
+22177,Jio,GTower, 437.00 ,Kite,33,Sikkim,146,135
+22178,Airtel,LTower, 882.00 ,Bulbul,64,Tamil Nadu,844,211
+22179,BSNL,MTower, 535.00 ,Sparrow,69,Telangana,617,54
+22180,Vodafone,GTower, 404.00 ,Spotted Dove,80,Tripura,168,70
+22181,Idea,LTower, 317.00 ,Kite,27,Uttarakhand,195,87
+22182,BSNL,GTower, 478.00 ,Bulbul,41,Uttar Pradesh,759,98
+22183,Jio,LTower, 393.00 ,Sparrow,42,West Bengal,217,177
+22184,Airtel,MTower, 426.00 ,Spotted Dove,51,Andhra Pradesh,886,189
+22185,Vodafone,LTower, 325.00 ,Bulbul,24,Arunachal Pradesh,245,146
+22186,BSNL,GTower, 669.00 ,Kite,75,Assam,476,223
+22187,Idea,GTower, 419.00 ,Sparrow,79,Bihar,373,96
+22188,Jio,MTower, 692.00 ,Spotted Dove,22,Chhattisgarh,231,71
+22189,Jio,LTower, 876.00 ,Kite,77,Goa,446,219
+22190,Airtel,MTower, 625.00 ,Bulbul,45,Gujarat,616,80
+22191,BSNL,GTower, 457.00 ,Sparrow,38,Haryana,730,225
+22192,Vodafone,LTower, 626.00 ,Bulbul,27,Andhra Pradesh,459,264
+22193,Idea,MTower, 789.00 ,Kite,23,Arunachal Pradesh,523,100
+22194,BSNL,GTower, 866.00 ,Spotted Dove,47,Assam,807,141
+22195,Jio,LTower, 897.00 ,Sparrow,52,Bihar,749,215
+22196,Airtel,GTower, 793.00 ,Sparrow,73,Chhattisgarh,420,153
+22197,Vodafone,LTower, 382.00 ,Bulbul,69,Goa,405,216
+22198,BSNL,MTower, 873.00 ,Kite,25,Gujarat,523,158
+22199,Idea,LTower, 727.00 ,Bulbul,55,Haryana,606,257
+22200,Jio,GTower, 650.00 ,Sparrow,22,Himachal Pradesh,205,256
+22201,Jio,GTower, 752.00 ,Spotted Dove,80,Jharkhand,837,299
+22202,Airtel,MTower, 641.00 ,Kite,56,Karnataka,398,221
+22203,BSNL,LTower, 421.00 ,Bulbul,55,Kerala,867,135
+22204,Vodafone,MTower, 851.00 ,Sparrow,74,Madhya Pradesh,762,68
+22205,Idea,GTower, 582.00 ,Spotted Dove,21,Maharashtra,142,239
+22206,BSNL,LTower, 730.00 ,Bulbul,33,Manipur,244,216
+22207,Jio,MTower, 669.00 ,Kite,33,Meghalaya,803,255
+22208,Airtel,GTower, 484.00 ,Sparrow,68,Mizoram,546,69
+22209,Vodafone,LTower, 386.00 ,Spotted Dove,31,Nagaland,528,170
+22210,BSNL,GTower, 744.00 ,Kite,72,Odisha,874,111
+22211,Idea,LTower, 751.00 ,Bulbul,46,Punjab,616,114
+22212,Jio,MTower, 863.00 ,Sparrow,69,Rajasthan,701,212
+22213,Jio,LTower, 362.00 ,Bulbul,40,Sikkim,315,248
+22214,Airtel,GTower, 331.00 ,Kite,22,Tamil Nadu,313,204
+22215,BSNL,GTower, 363.00 ,Spotted Dove,49,Telangana,710,124
+22216,Vodafone,MTower, 661.00 ,Sparrow,47,Tripura,216,145
+22217,Idea,LTower, 550.00 ,Sparrow,67,Uttarakhand,871,109
+22218,BSNL,MTower, 664.00 ,Bulbul,56,Uttar Pradesh,261,73
+22219,Jio,GTower, 637.00 ,Kite,32,West Bengal,244,103
+22220,Airtel,LTower, 846.00 ,Bulbul,20,Andhra Pradesh,854,284
+22221,Vodafone,MTower, 574.00 ,Sparrow,50,Arunachal Pradesh,255,164
+22222,BSNL,GTower, 684.00 ,Spotted Dove,72,Assam,434,294
+22223,Idea,LTower, 705.00 ,Kite,76,Bihar,326,164
+22224,Jio,GTower, 303.00 ,Bulbul,58,Chhattisgarh,702,217
+22225,Jio,LTower, 759.00 ,Sparrow,23,Goa,400,209
+22226,Airtel,MTower, 600.00 ,Spotted Dove,41,Gujarat,197,158
+22227,BSNL,LTower, 792.00 ,Bulbul,62,Haryana,719,266
+22228,Vodafone,GTower, 483.00 ,Kite,23,Himachal Pradesh,201,176
+22229,Idea,GTower, 842.00 ,Sparrow,60,Jharkhand,466,215
+22230,BSNL,MTower, 402.00 ,Spotted Dove,39,Karnataka,129,126
+22231,Jio,LTower, 576.00 ,Kite,71,Kerala,876,179
+22232,Airtel,MTower, 688.00 ,Bulbul,70,Madhya Pradesh,381,193
+22233,Vodafone,GTower, 587.00 ,Sparrow,31,Maharashtra,894,261
+22234,BSNL,LTower, 634.00 ,Bulbul,52,Manipur,252,65
+22235,Idea,MTower, 702.00 ,Kite,31,Meghalaya,640,264
+22236,Jio,GTower, 414.00 ,Spotted Dove,71,Mizoram,369,155
+22237,Jio,LTower, 339.00 ,Sparrow,77,Nagaland,510,174
+22238,Airtel,GTower, 710.00 ,Sparrow,47,Odisha,868,264
+22239,BSNL,LTower, 872.00 ,Bulbul,56,Punjab,789,295
+22240,Vodafone,MTower, 771.00 ,Kite,78,Rajasthan,303,183
+22241,Idea,LTower, 492.00 ,Bulbul,78,Sikkim,144,50
+22242,BSNL,GTower, 492.00 ,Sparrow,63,Tamil Nadu,513,228
+22243,Jio,GTower, 691.00 ,Spotted Dove,31,Telangana,526,213
+22244,Airtel,MTower, 881.00 ,Kite,26,Tripura,418,256
+22245,Vodafone,LTower, 469.00 ,Bulbul,40,Uttarakhand,102,263
+22246,BSNL,MTower, 616.00 ,Sparrow,27,Uttar Pradesh,540,138
+22247,Idea,GTower, 677.00 ,Spotted Dove,74,West Bengal,433,294
+22248,Jio,LTower, 325.00 ,Bulbul,56,Andhra Pradesh,517,257
+22249,Jio,MTower, 545.00 ,Kite,75,Arunachal Pradesh,116,100
+22250,Airtel,GTower, 606.00 ,Sparrow,61,Assam,344,271
+22251,BSNL,LTower, 748.00 ,Spotted Dove,77,Bihar,346,221
+22252,Vodafone,GTower, 422.00 ,Kite,31,Chhattisgarh,497,274
+22253,Idea,LTower, 785.00 ,Bulbul,70,Goa,133,128
+22254,BSNL,MTower, 578.00 ,Sparrow,49,Gujarat,220,165
+22255,Jio,LTower, 354.00 ,Bulbul,58,Haryana,359,254
+22256,Airtel,GTower, 698.00 ,Kite,43,Andhra Pradesh,204,127
+22257,Vodafone,GTower, 400.00 ,Spotted Dove,77,Arunachal Pradesh,735,141
+22258,BSNL,MTower, 687.00 ,Sparrow,34,Assam,882,112
+22259,Idea,LTower, 455.00 ,Sparrow,29,Bihar,884,290
+22260,Jio,MTower, 421.00 ,Bulbul,68,Chhattisgarh,302,230
+22261,Jio,GTower, 340.00 ,Kite,36,Goa,356,72
+22262,Airtel,LTower, 693.00 ,Bulbul,35,Gujarat,332,280
+22263,BSNL,MTower, 622.00 ,Sparrow,31,Haryana,821,194
+22264,Vodafone,GTower, 531.00 ,Spotted Dove,22,Himachal Pradesh,355,133
+22265,Idea,LTower, 381.00 ,Kite,72,Jharkhand,106,179
+22266,BSNL,GTower, 640.00 ,Bulbul,25,Karnataka,355,274
+22267,Jio,LTower, 324.00 ,Sparrow,80,Kerala,496,63
+22268,Airtel,MTower, 489.00 ,Spotted Dove,43,Madhya Pradesh,844,208
+22269,Vodafone,LTower, 393.00 ,Bulbul,38,Maharashtra,626,111
+22270,BSNL,GTower, 526.00 ,Kite,72,Manipur,292,72
+22271,Idea,GTower, 598.00 ,Sparrow,80,Meghalaya,618,223
+22272,Jio,MTower, 419.00 ,Spotted Dove,29,Mizoram,859,149
+22273,Jio,LTower, 364.00 ,Kite,28,Nagaland,176,207
+22274,Airtel,MTower, 437.00 ,Bulbul,49,Odisha,805,200
+22275,BSNL,GTower, 540.00 ,Sparrow,41,Punjab,100,179
+22276,Vodafone,LTower, 530.00 ,Bulbul,61,Rajasthan,228,241
+22277,Idea,MTower, 622.00 ,Kite,72,Sikkim,804,248
+22278,BSNL,GTower, 533.00 ,Spotted Dove,27,Tamil Nadu,340,55
+22279,Jio,LTower, 312.00 ,Sparrow,73,Telangana,396,204
+22280,Airtel,GTower, 403.00 ,Sparrow,55,Tripura,802,107
+22281,Vodafone,LTower, 450.00 ,Bulbul,61,Uttarakhand,422,117
+22282,BSNL,MTower, 321.00 ,Kite,71,Uttar Pradesh,334,279
+22283,Idea,LTower, 892.00 ,Bulbul,39,West Bengal,330,192
+22284,Jio,GTower, 696.00 ,Sparrow,27,Andhra Pradesh,113,96
+22285,Jio,GTower, 610.00 ,Spotted Dove,78,Arunachal Pradesh,415,136
+22286,Airtel,MTower, 709.00 ,Kite,61,Assam,330,57
+22287,BSNL,LTower, 391.00 ,Bulbul,22,Bihar,437,64
+22288,Vodafone,MTower, 592.00 ,Sparrow,46,Chhattisgarh,213,106
+22289,Idea,GTower, 500.00 ,Spotted Dove,55,Goa,760,132
+22290,BSNL,LTower, 665.00 ,Bulbul,53,Gujarat,545,159
+22291,Jio,MTower, 322.00 ,Kite,29,Haryana,847,155
+22292,Airtel,GTower, 753.00 ,Sparrow,63,Himachal Pradesh,166,59
+22293,Vodafone,LTower, 632.00 ,Spotted Dove,58,Jharkhand,317,297
+22294,BSNL,GTower, 857.00 ,Kite,65,Karnataka,169,96
+22295,Idea,LTower, 889.00 ,Bulbul,33,Kerala,598,186
+22296,Jio,MTower, 598.00 ,Sparrow,21,Madhya Pradesh,808,201
+22297,Jio,LTower, 679.00 ,Bulbul,57,Maharashtra,185,239
+22298,Airtel,GTower, 314.00 ,Kite,57,Manipur,851,124
+22299,BSNL,GTower, 696.00 ,Spotted Dove,56,Meghalaya,672,163
+22300,Vodafone,MTower, 596.00 ,Sparrow,78,Mizoram,106,214
+22301,Idea,LTower, 495.00 ,Sparrow,71,Nagaland,344,99
+22302,BSNL,MTower, 468.00 ,Bulbul,29,Odisha,891,210
+22303,Jio,GTower, 810.00 ,Kite,58,Punjab,418,286
+22304,Airtel,LTower, 602.00 ,Bulbul,67,Rajasthan,692,129
+22305,Vodafone,MTower, 795.00 ,Sparrow,73,Sikkim,194,93
+22306,BSNL,GTower, 763.00 ,Spotted Dove,30,Tamil Nadu,392,160
+22307,Idea,LTower, 848.00 ,Kite,43,Telangana,823,281
+22308,Jio,GTower, 723.00 ,Bulbul,70,Tripura,725,211
+22309,Jio,LTower, 741.00 ,Sparrow,26,Uttarakhand,268,173
+22310,Airtel,MTower, 349.00 ,Spotted Dove,44,Uttar Pradesh,384,211
+22311,BSNL,LTower, 490.00 ,Bulbul,36,West Bengal,879,255
+22312,Vodafone,GTower, 824.00 ,Kite,68,Andhra Pradesh,284,146
+22313,Idea,GTower, 675.00 ,Sparrow,78,Arunachal Pradesh,302,142
+22314,BSNL,MTower, 850.00 ,Spotted Dove,23,Assam,522,257
+22315,Jio,LTower, 421.00 ,Kite,63,Bihar,113,215
+22316,Airtel,MTower, 891.00 ,Bulbul,56,Chhattisgarh,167,141
+22317,Vodafone,GTower, 348.00 ,Sparrow,54,Goa,262,229
+22318,BSNL,LTower, 443.00 ,Bulbul,79,Gujarat,620,172
+22319,Idea,MTower, 811.00 ,Kite,72,Haryana,565,107
+22320,Jio,GTower, 714.00 ,Spotted Dove,24,Andhra Pradesh,264,190
+22321,Jio,LTower, 468.00 ,Sparrow,60,Arunachal Pradesh,448,111
+22322,Airtel,GTower, 315.00 ,Sparrow,75,Assam,197,161
+22323,BSNL,LTower, 356.00 ,Bulbul,69,Bihar,845,60
+22324,Vodafone,MTower, 768.00 ,Kite,73,Chhattisgarh,635,84
+22325,Idea,LTower, 558.00 ,Bulbul,42,Goa,834,100
+22326,BSNL,GTower, 781.00 ,Sparrow,33,Gujarat,713,271
+22327,Jio,GTower, 625.00 ,Spotted Dove,28,Haryana,389,102
+22328,Airtel,MTower, 451.00 ,Kite,66,Himachal Pradesh,271,233
+22329,Vodafone,LTower, 579.00 ,Bulbul,20,Jharkhand,395,89
+22330,BSNL,MTower, 727.00 ,Sparrow,30,Karnataka,259,226
+22331,Idea,GTower, 617.00 ,Spotted Dove,74,Kerala,392,56
+22332,Jio,LTower, 506.00 ,Bulbul,40,Madhya Pradesh,369,213
+22333,Jio,MTower, 589.00 ,Kite,47,Maharashtra,297,108
+22334,Airtel,GTower, 750.00 ,Sparrow,60,Manipur,404,270
+22335,BSNL,LTower, 449.00 ,Spotted Dove,24,Meghalaya,870,181
+22336,Vodafone,GTower, 507.00 ,Kite,75,Mizoram,778,278
+22337,Idea,LTower, 613.00 ,Bulbul,70,Nagaland,109,145
+22338,BSNL,MTower, 649.00 ,Sparrow,53,Odisha,761,229
+22339,Jio,LTower, 667.00 ,Bulbul,43,Punjab,165,218
+22340,Airtel,GTower, 848.00 ,Kite,58,Rajasthan,573,275
+22341,Vodafone,GTower, 601.00 ,Spotted Dove,63,Sikkim,135,229
+22342,BSNL,MTower, 443.00 ,Sparrow,64,Tamil Nadu,385,265
+22343,Idea,LTower, 460.00 ,Sparrow,64,Telangana,139,132
+22344,Jio,MTower, 743.00 ,Bulbul,35,Tripura,781,91
+22345,Jio,GTower, 534.00 ,Kite,37,Uttarakhand,876,277
+22346,Airtel,LTower, 368.00 ,Bulbul,63,Uttar Pradesh,790,177
+22347,BSNL,MTower, 665.00 ,Sparrow,79,West Bengal,563,199
+22348,Vodafone,GTower, 357.00 ,Spotted Dove,32,Andhra Pradesh,136,242
+22349,Idea,LTower, 431.00 ,Kite,44,Arunachal Pradesh,644,151
+22350,BSNL,GTower, 837.00 ,Bulbul,30,Assam,281,170
+22351,Jio,LTower, 440.00 ,Sparrow,71,Bihar,145,190
+22352,Airtel,MTower, 588.00 ,Spotted Dove,55,Chhattisgarh,260,298
+22353,Vodafone,LTower, 827.00 ,Bulbul,38,Goa,723,176
+22354,BSNL,GTower, 834.00 ,Kite,66,Gujarat,505,279
+22355,Idea,GTower, 433.00 ,Sparrow,76,Haryana,502,200
+22356,Jio,MTower, 712.00 ,Spotted Dove,70,Himachal Pradesh,324,100
+22357,Jio,LTower, 860.00 ,Kite,42,Jharkhand,308,160
+22358,Airtel,MTower, 415.00 ,Bulbul,75,Karnataka,585,202
+22359,BSNL,GTower, 845.00 ,Sparrow,46,Kerala,777,190
+22360,Vodafone,LTower, 480.00 ,Bulbul,26,Madhya Pradesh,673,224
+22361,Idea,MTower, 431.00 ,Kite,75,Maharashtra,504,115
+22362,BSNL,GTower, 682.00 ,Spotted Dove,63,Manipur,404,128
+22363,Jio,LTower, 470.00 ,Sparrow,63,Meghalaya,218,200
+22364,Airtel,GTower, 469.00 ,Sparrow,43,Mizoram,599,129
+22365,Vodafone,LTower, 612.00 ,Bulbul,28,Nagaland,434,203
+22366,BSNL,MTower, 338.00 ,Kite,37,Odisha,131,167
+22367,Idea,LTower, 762.00 ,Bulbul,66,Punjab,898,64
+22368,Jio,GTower, 472.00 ,Sparrow,47,Rajasthan,521,160
+22369,Jio,GTower, 396.00 ,Spotted Dove,47,Sikkim,888,120
+22370,Airtel,MTower, 460.00 ,Kite,63,Tamil Nadu,670,75
+22371,BSNL,LTower, 386.00 ,Bulbul,32,Telangana,600,130
+22372,Vodafone,MTower, 820.00 ,Sparrow,42,Tripura,727,133
+22373,Idea,GTower, 717.00 ,Spotted Dove,34,Uttarakhand,646,213
+22374,BSNL,LTower, 638.00 ,Bulbul,61,Uttar Pradesh,113,242
+22375,Jio,MTower, 531.00 ,Kite,23,West Bengal,756,111
+22376,Airtel,GTower, 870.00 ,Sparrow,69,Andhra Pradesh,235,116
+22377,Vodafone,LTower, 566.00 ,Spotted Dove,79,Arunachal Pradesh,338,134
+22378,BSNL,GTower, 824.00 ,Kite,63,Assam,213,255
+22379,Idea,LTower, 531.00 ,Bulbul,27,Bihar,557,104
+22380,Jio,MTower, 618.00 ,Sparrow,56,Chhattisgarh,172,158
+22381,Jio,LTower, 686.00 ,Bulbul,66,Goa,391,95
+22382,Airtel,GTower, 881.00 ,Kite,30,Gujarat,886,146
+22383,BSNL,GTower, 388.00 ,Spotted Dove,40,Haryana,232,280
+22384,Vodafone,MTower, 468.00 ,Sparrow,43,Andhra Pradesh,338,154
+22385,Idea,LTower, 758.00 ,Sparrow,37,Arunachal Pradesh,429,284
+22386,BSNL,MTower, 835.00 ,Bulbul,73,Assam,637,115
+22387,Jio,GTower, 350.00 ,Kite,49,Bihar,319,175
+22388,Airtel,LTower, 709.00 ,Bulbul,21,Chhattisgarh,218,203
+22389,Vodafone,MTower, 803.00 ,Sparrow,63,Goa,201,200
+22390,BSNL,GTower, 786.00 ,Spotted Dove,64,Gujarat,731,216
+22391,Idea,LTower, 431.00 ,Kite,30,Haryana,874,123
+22392,Jio,GTower, 752.00 ,Bulbul,78,Himachal Pradesh,570,160
+22393,Jio,LTower, 738.00 ,Sparrow,46,Jharkhand,210,222
+22394,Airtel,MTower, 605.00 ,Spotted Dove,34,Karnataka,722,294
+22395,BSNL,LTower, 646.00 ,Bulbul,38,Kerala,745,92
+22396,Vodafone,GTower, 591.00 ,Kite,42,Madhya Pradesh,113,236
+22397,Idea,GTower, 803.00 ,Sparrow,47,Maharashtra,496,219
+22398,BSNL,MTower, 475.00 ,Spotted Dove,45,Manipur,447,79
+22399,Jio,LTower, 888.00 ,Kite,48,Meghalaya,876,150
+22400,Airtel,MTower, 521.00 ,Bulbul,42,Mizoram,682,145
